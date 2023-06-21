@@ -1,0 +1,7607 @@
+[
+    {
+        "worsen": "1",
+        "better": "1",
+        "way": "+"
+    },
+    {
+        "worsen": "1",
+        "better": "2",
+        "way": "-"
+    },
+    {
+        "worsen": "1",
+        "better": "3",
+        "way": "15,8,29,34"
+    },
+    {
+        "worsen": "1",
+        "better": "4",
+        "way": "-"
+    },
+    {
+        "worsen": "1",
+        "better": "5",
+        "way": "29,17,38,34"
+    },
+    {
+        "worsen": "1",
+        "better": "6",
+        "way": "-"
+    },
+    {
+        "worsen": "1",
+        "better": "7",
+        "way": "29,2,40,28"
+    },
+    {
+        "worsen": "1",
+        "better": "8",
+        "way": "-"
+    },
+    {
+        "worsen": "1",
+        "better": "9",
+        "way": "2,8,15,38"
+    },
+    {
+        "worsen": "1",
+        "better": "10",
+        "way": "8,10,18,37"
+    },
+    {
+        "worsen": "1",
+        "better": "11",
+        "way": "10,36,37,40"
+    },
+    {
+        "worsen": "1",
+        "better": "12",
+        "way": "10,14,35,40"
+    },
+    {
+        "worsen": "1",
+        "better": "13",
+        "way": "1,35,19,39"
+    },
+    {
+        "worsen": "1",
+        "better": "14",
+        "way": "28,27,18,40"
+    },
+    {
+        "worsen": "1",
+        "better": "15",
+        "way": "5,34,31,35"
+    },
+    {
+        "worsen": "1",
+        "better": "16",
+        "way": "-"
+    },
+    {
+        "worsen": "1",
+        "better": "17",
+        "way": "6,29,4,38"
+    },
+    {
+        "worsen": "1",
+        "better": "18",
+        "way": "19,1,32,"
+    },
+    {
+        "worsen": "1",
+        "better": "19",
+        "way": "35,12,34,31"
+    },
+    {
+        "worsen": "1",
+        "better": "20",
+        "way": "-"
+    },
+    {
+        "worsen": "1",
+        "better": "21",
+        "way": "12,36,18,31"
+    },
+    {
+        "worsen": "1",
+        "better": "22",
+        "way": "6,2,34,19"
+    },
+    {
+        "worsen": "1",
+        "better": "23",
+        "way": "5,35,3,31"
+    },
+    {
+        "worsen": "1",
+        "better": "24",
+        "way": "10,24,35"
+    },
+    {
+        "worsen": "1",
+        "better": "25",
+        "way": "10,35,20,28"
+    },
+    {
+        "worsen": "1",
+        "better": "26",
+        "way": "3,26,18,31"
+    },
+    {
+        "worsen": "1",
+        "better": "27",
+        "way": "1,3,11,27"
+    },
+    {
+        "worsen": "1",
+        "better": "28",
+        "way": "28,27,35,26"
+    },
+    {
+        "worsen": "1",
+        "better": "29",
+        "way": "28,35,26,18"
+    },
+    {
+        "worsen": "1",
+        "better": "30",
+        "way": "22,21,18,27"
+    },
+    {
+        "worsen": "1",
+        "better": "31",
+        "way": "22,35,313,39"
+    },
+    {
+        "worsen": "1",
+        "better": "32",
+        "way": "27,28,1,36"
+    },
+    {
+        "worsen": "1",
+        "better": "33",
+        "way": "35,3,2,24"
+    },
+    {
+        "worsen": "1",
+        "better": "34",
+        "way": "2,27,28,11"
+    },
+    {
+        "worsen": "1",
+        "better": "35",
+        "way": "29,5,15,8"
+    },
+    {
+        "worsen": "1",
+        "better": "36",
+        "way": "26,30,36,34"
+    },
+    {
+        "worsen": "1",
+        "better": "37",
+        "way": "28,29,26,32"
+    },
+    {
+        "worsen": "1",
+        "better": "38",
+        "way": "26,35,18,19"
+    },
+    {
+        "worsen": "1",
+        "better": "39",
+        "way": "25,3,24,37"
+    },
+    {
+        "worsen": "2",
+        "better": "1",
+        "way": "-"
+    },
+    {
+        "worsen": "2",
+        "better": "2",
+        "way": "+"
+    },
+    {
+        "worsen": "2",
+        "better": "3",
+        "way": "-"
+    },
+    {
+        "worsen": "2",
+        "better": "4",
+        "way": "10,1,29,35"
+    },
+    {
+        "worsen": "2",
+        "better": "5",
+        "way": "-"
+    },
+    {
+        "worsen": "2",
+        "better": "6",
+        "way": "35,30,13,2"
+    },
+    {
+        "worsen": "2",
+        "better": "7",
+        "way": "-"
+    },
+    {
+        "worsen": "2",
+        "better": "8",
+        "way": "5,35,14,2"
+    },
+    {
+        "worsen": "2",
+        "better": "9",
+        "way": "-"
+    },
+    {
+        "worsen": "2",
+        "better": "10",
+        "way": "8,10,19,35"
+    },
+    {
+        "worsen": "2",
+        "better": "11",
+        "way": "13,29,10,18"
+    },
+    {
+        "worsen": "2",
+        "better": "12",
+        "way": "13,10,29,14"
+    },
+    {
+        "worsen": "2",
+        "better": "13",
+        "way": "26,39,1,40"
+    },
+    {
+        "worsen": "2",
+        "better": "14",
+        "way": "28,2,10,27"
+    },
+    {
+        "worsen": "2",
+        "better": "15",
+        "way": "-"
+    },
+    {
+        "worsen": "2",
+        "better": "16",
+        "way": "2,27,19,6"
+    },
+    {
+        "worsen": "2",
+        "better": "17",
+        "way": "28,19,32,22"
+    },
+    {
+        "worsen": "2",
+        "better": "18",
+        "way": "19,32,35"
+    },
+    {
+        "worsen": "2",
+        "better": "19",
+        "way": "-"
+    },
+    {
+        "worsen": "2",
+        "better": "20",
+        "way": "18,19,28,1"
+    },
+    {
+        "worsen": "2",
+        "better": "21",
+        "way": "15,19,18,22"
+    },
+    {
+        "worsen": "2",
+        "better": "22",
+        "way": "18,19,28,15"
+    },
+    {
+        "worsen": "2",
+        "better": "23",
+        "way": "5,8,13,30"
+    },
+    {
+        "worsen": "2",
+        "better": "24",
+        "way": "10,15,35"
+    },
+    {
+        "worsen": "2",
+        "better": "25",
+        "way": "10,20,35,26"
+    },
+    {
+        "worsen": "2",
+        "better": "26",
+        "way": "19,6,18,26"
+    },
+    {
+        "worsen": "2",
+        "better": "27",
+        "way": "10,28,8,3"
+    },
+    {
+        "worsen": "2",
+        "better": "28",
+        "way": "18,26,28"
+    },
+    {
+        "worsen": "2",
+        "better": "29",
+        "way": "10,1,35,17"
+    },
+    {
+        "worsen": "2",
+        "better": "30",
+        "way": "2,19,22,37"
+    },
+    {
+        "worsen": "2",
+        "better": "31",
+        "way": "35,22,1,39"
+    },
+    {
+        "worsen": "2",
+        "better": "32",
+        "way": "28,1,9"
+    },
+    {
+        "worsen": "2",
+        "better": "33",
+        "way": "6,13,1,32"
+    },
+    {
+        "worsen": "2",
+        "better": "34",
+        "way": "2,27,28,11"
+    },
+    {
+        "worsen": "2",
+        "better": "35",
+        "way": "19,15,29"
+    },
+    {
+        "worsen": "2",
+        "better": "36",
+        "way": "1,10,26,39"
+    },
+    {
+        "worsen": "2",
+        "better": "37",
+        "way": "25,28,17,15"
+    },
+    {
+        "worsen": "2",
+        "better": "38",
+        "way": "2,26,35"
+    },
+    {
+        "worsen": "2",
+        "better": "39",
+        "way": "1,28,15,35"
+    },
+    {
+        "worsen": "3",
+        "better": "1",
+        "way": "8,1,29,34"
+    },
+    {
+        "worsen": "3",
+        "better": "2",
+        "way": "-"
+    },
+    {
+        "worsen": "3",
+        "better": "3",
+        "way": "+"
+    },
+    {
+        "worsen": "3",
+        "better": "4",
+        "way": "-"
+    },
+    {
+        "worsen": "3",
+        "better": "5",
+        "way": "15,17,4"
+    },
+    {
+        "worsen": "3",
+        "better": "6",
+        "way": "-"
+    },
+    {
+        "worsen": "3",
+        "better": "7",
+        "way": "7,17,4,35"
+    },
+    {
+        "worsen": "3",
+        "better": "8",
+        "way": ""
+    },
+    {
+        "worsen": "3",
+        "better": "9",
+        "way": "13,4,8"
+    },
+    {
+        "worsen": "3",
+        "better": "10",
+        "way": "17,10,4"
+    },
+    {
+        "worsen": "3",
+        "better": "11",
+        "way": "1,8,35"
+    },
+    {
+        "worsen": "3",
+        "better": "12",
+        "way": "1,8,10,29"
+    },
+    {
+        "worsen": "3",
+        "better": "13",
+        "way": "1,8,15,34"
+    },
+    {
+        "worsen": "3",
+        "better": "14",
+        "way": "8,35,29,34"
+    },
+    {
+        "worsen": "3",
+        "better": "15",
+        "way": "19"
+    },
+    {
+        "worsen": "3",
+        "better": "16",
+        "way": "-"
+    },
+    {
+        "worsen": "3",
+        "better": "17",
+        "way": "10,15,19"
+    },
+    {
+        "worsen": "3",
+        "better": "18",
+        "way": "32"
+    },
+    {
+        "worsen": "3",
+        "better": "19",
+        "way": "8,35,24"
+    },
+    {
+        "worsen": "3",
+        "better": "20",
+        "way": "-"
+    },
+    {
+        "worsen": "3",
+        "better": "21",
+        "way": "1,35"
+    },
+    {
+        "worsen": "3",
+        "better": "22",
+        "way": "7,2,35,39"
+    },
+    {
+        "worsen": "3",
+        "better": "23",
+        "way": "4,29,23,10"
+    },
+    {
+        "worsen": "3",
+        "better": "24",
+        "way": "1,24"
+    },
+    {
+        "worsen": "3",
+        "better": "25",
+        "way": "15,2,29"
+    },
+    {
+        "worsen": "3",
+        "better": "26",
+        "way": "29,35"
+    },
+    {
+        "worsen": "3",
+        "better": "27",
+        "way": "10,14,29,40"
+    },
+    {
+        "worsen": "3",
+        "better": "28",
+        "way": "28,32,4"
+    },
+    {
+        "worsen": "3",
+        "better": "29",
+        "way": "10,28,29,37"
+    },
+    {
+        "worsen": "3",
+        "better": "30",
+        "way": "1,15,17,24"
+    },
+    {
+        "worsen": "3",
+        "better": "31",
+        "way": "17,15"
+    },
+    {
+        "worsen": "3",
+        "better": "32",
+        "way": "1,29,17"
+    },
+    {
+        "worsen": "3",
+        "better": "33",
+        "way": "15,29,35,4"
+    },
+    {
+        "worsen": "3",
+        "better": "34",
+        "way": "1,28,10"
+    },
+    {
+        "worsen": "3",
+        "better": "35",
+        "way": "14,15,1,16"
+    },
+    {
+        "worsen": "3",
+        "better": "36",
+        "way": "1,19,26,24"
+    },
+    {
+        "worsen": "3",
+        "better": "37",
+        "way": "35,1,26,24"
+    },
+    {
+        "worsen": "3",
+        "better": "38",
+        "way": "17,24,26,16"
+    },
+    {
+        "worsen": "3",
+        "better": "39",
+        "way": "14,4,28,29"
+    },
+    {
+        "worsen": "4",
+        "better": "1",
+        "way": ""
+    },
+    {
+        "worsen": "4",
+        "better": "2",
+        "way": "35,28,40,29"
+    },
+    {
+        "worsen": "4",
+        "better": "3",
+        "way": "-"
+    },
+    {
+        "worsen": "4",
+        "better": "4",
+        "way": "+"
+    },
+    {
+        "worsen": "4",
+        "better": "5",
+        "way": "-"
+    },
+    {
+        "worsen": "4",
+        "better": "6",
+        "way": "17,7,10,40"
+    },
+    {
+        "worsen": "4",
+        "better": "7",
+        "way": "-"
+    },
+    {
+        "worsen": "4",
+        "better": "8",
+        "way": "35,8,2,14"
+    },
+    {
+        "worsen": "4",
+        "better": "9",
+        "way": "-"
+    },
+    {
+        "worsen": "4",
+        "better": "10",
+        "way": "28,10"
+    },
+    {
+        "worsen": "4",
+        "better": "11",
+        "way": "1,14,35"
+    },
+    {
+        "worsen": "4",
+        "better": "12",
+        "way": "13,14,15,7"
+    },
+    {
+        "worsen": "4",
+        "better": "13",
+        "way": "39,37,35"
+    },
+    {
+        "worsen": "4",
+        "better": "14",
+        "way": "15,14,28,26"
+    },
+    {
+        "worsen": "4",
+        "better": "15",
+        "way": "-"
+    },
+    {
+        "worsen": "4",
+        "better": "16",
+        "way": "1,10,35"
+    },
+    {
+        "worsen": "4",
+        "better": "17",
+        "way": "3,35,38,18"
+    },
+    {
+        "worsen": "4",
+        "better": "18",
+        "way": "3,25"
+    },
+    {
+        "worsen": "4",
+        "better": "19",
+        "way": "-"
+    },
+    {
+        "worsen": "4",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "4",
+        "better": "21",
+        "way": "12,8"
+    },
+    {
+        "worsen": "4",
+        "better": "22",
+        "way": "6,28"
+    },
+    {
+        "worsen": "4",
+        "better": "23",
+        "way": "10,28,24,35"
+    },
+    {
+        "worsen": "4",
+        "better": "24",
+        "way": "24,26"
+    },
+    {
+        "worsen": "4",
+        "better": "25",
+        "way": "30,29,14"
+    },
+    {
+        "worsen": "4",
+        "better": "26",
+        "way": ""
+    },
+    {
+        "worsen": "4",
+        "better": "27",
+        "way": "15,29,28"
+    },
+    {
+        "worsen": "4",
+        "better": "28",
+        "way": "32,28,3"
+    },
+    {
+        "worsen": "4",
+        "better": "29",
+        "way": "2,32,10"
+    },
+    {
+        "worsen": "4",
+        "better": "30",
+        "way": "1,18"
+    },
+    {
+        "worsen": "4",
+        "better": "31",
+        "way": ""
+    },
+    {
+        "worsen": "4",
+        "better": "32",
+        "way": "15,17,27"
+    },
+    {
+        "worsen": "4",
+        "better": "33",
+        "way": "2,25"
+    },
+    {
+        "worsen": "4",
+        "better": "34",
+        "way": "3"
+    },
+    {
+        "worsen": "4",
+        "better": "35",
+        "way": "1,35"
+    },
+    {
+        "worsen": "4",
+        "better": "36",
+        "way": "1,26"
+    },
+    {
+        "worsen": "4",
+        "better": "37",
+        "way": "26"
+    },
+    {
+        "worsen": "4",
+        "better": "38",
+        "way": ""
+    },
+    {
+        "worsen": "4",
+        "better": "39",
+        "way": "30,14,7,26"
+    },
+    {
+        "worsen": "5",
+        "better": "1",
+        "way": "2,17,29,4"
+    },
+    {
+        "worsen": "5",
+        "better": "2",
+        "way": "-"
+    },
+    {
+        "worsen": "5",
+        "better": "3",
+        "way": "14,15,18,4"
+    },
+    {
+        "worsen": "5",
+        "better": "4",
+        "way": "-"
+    },
+    {
+        "worsen": "5",
+        "better": "5",
+        "way": "+"
+    },
+    {
+        "worsen": "5",
+        "better": "6",
+        "way": "-"
+    },
+    {
+        "worsen": "5",
+        "better": "7",
+        "way": "17,7,10,40"
+    },
+    {
+        "worsen": "5",
+        "better": "8",
+        "way": ""
+    },
+    {
+        "worsen": "5",
+        "better": "9",
+        "way": "29,30,4,34"
+    },
+    {
+        "worsen": "5",
+        "better": "10",
+        "way": "19,30,35,2"
+    },
+    {
+        "worsen": "5",
+        "better": "11",
+        "way": "10,15,36,28"
+    },
+    {
+        "worsen": "5",
+        "better": "12",
+        "way": "5,34,29,4"
+    },
+    {
+        "worsen": "5",
+        "better": "13",
+        "way": "11,2,13,39"
+    },
+    {
+        "worsen": "5",
+        "better": "14",
+        "way": "3,15,40,14"
+    },
+    {
+        "worsen": "5",
+        "better": "15",
+        "way": "6,3"
+    },
+    {
+        "worsen": "5",
+        "better": "16",
+        "way": "-"
+    },
+    {
+        "worsen": "5",
+        "better": "17",
+        "way": "2,15,16"
+    },
+    {
+        "worsen": "5",
+        "better": "18",
+        "way": "15,32,19,13"
+    },
+    {
+        "worsen": "5",
+        "better": "19",
+        "way": "19,32"
+    },
+    {
+        "worsen": "5",
+        "better": "20",
+        "way": "-"
+    },
+    {
+        "worsen": "5",
+        "better": "21",
+        "way": "19,10,32,18"
+    },
+    {
+        "worsen": "5",
+        "better": "22",
+        "way": "15,17,30,26"
+    },
+    {
+        "worsen": "5",
+        "better": "23",
+        "way": "10,35,2,39"
+    },
+    {
+        "worsen": "5",
+        "better": "24",
+        "way": "30,26"
+    },
+    {
+        "worsen": "5",
+        "better": "25",
+        "way": "26,4"
+    },
+    {
+        "worsen": "5",
+        "better": "26",
+        "way": "29,30,6,13"
+    },
+    {
+        "worsen": "5",
+        "better": "27",
+        "way": "29,9"
+    },
+    {
+        "worsen": "5",
+        "better": "28",
+        "way": "26,28,32,3"
+    },
+    {
+        "worsen": "5",
+        "better": "29",
+        "way": "2,32"
+    },
+    {
+        "worsen": "5",
+        "better": "30",
+        "way": "22,33,28,1"
+    },
+    {
+        "worsen": "5",
+        "better": "31",
+        "way": "17,2,18,39"
+    },
+    {
+        "worsen": "5",
+        "better": "32",
+        "way": "13,1,26,24"
+    },
+    {
+        "worsen": "5",
+        "better": "33",
+        "way": "15,17,13,16"
+    },
+    {
+        "worsen": "5",
+        "better": "34",
+        "way": "15,13,10,1"
+    },
+    {
+        "worsen": "5",
+        "better": "35",
+        "way": "15,30"
+    },
+    {
+        "worsen": "5",
+        "better": "36",
+        "way": "14,1,13"
+    },
+    {
+        "worsen": "5",
+        "better": "37",
+        "way": "2,36,26,18"
+    },
+    {
+        "worsen": "5",
+        "better": "38",
+        "way": "14,30,28,23"
+    },
+    {
+        "worsen": "5",
+        "better": "39",
+        "way": "10,26,34,2"
+    },
+    {
+        "worsen": "6",
+        "better": "1",
+        "way": "-"
+    },
+    {
+        "worsen": "6",
+        "better": "2",
+        "way": "30,2,14,18"
+    },
+    {
+        "worsen": "6",
+        "better": "3",
+        "way": "-"
+    },
+    {
+        "worsen": "6",
+        "better": "4",
+        "way": "26,7,9,39"
+    },
+    {
+        "worsen": "6",
+        "better": "5",
+        "way": "-"
+    },
+    {
+        "worsen": "6",
+        "better": "6",
+        "way": "+"
+    },
+    {
+        "worsen": "6",
+        "better": "7",
+        "way": "-"
+    },
+    {
+        "worsen": "6",
+        "better": "8",
+        "way": ""
+    },
+    {
+        "worsen": "6",
+        "better": "9",
+        "way": "-"
+    },
+    {
+        "worsen": "6",
+        "better": "10",
+        "way": "1,18,35,36"
+    },
+    {
+        "worsen": "6",
+        "better": "11",
+        "way": "10,15,36,37"
+    },
+    {
+        "worsen": "6",
+        "better": "12",
+        "way": ""
+    },
+    {
+        "worsen": "6",
+        "better": "13",
+        "way": "2,38"
+    },
+    {
+        "worsen": "6",
+        "better": "14",
+        "way": "40"
+    },
+    {
+        "worsen": "6",
+        "better": "15",
+        "way": "-"
+    },
+    {
+        "worsen": "6",
+        "better": "16",
+        "way": "2,10,19,30"
+    },
+    {
+        "worsen": "6",
+        "better": "17",
+        "way": "35,39,38"
+    },
+    {
+        "worsen": "6",
+        "better": "18",
+        "way": ""
+    },
+    {
+        "worsen": "6",
+        "better": "19",
+        "way": "-"
+    },
+    {
+        "worsen": "6",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "6",
+        "better": "21",
+        "way": "17,32"
+    },
+    {
+        "worsen": "6",
+        "better": "22",
+        "way": "17,7,30"
+    },
+    {
+        "worsen": "6",
+        "better": "23",
+        "way": "10,14,18,39"
+    },
+    {
+        "worsen": "6",
+        "better": "24",
+        "way": "30,16"
+    },
+    {
+        "worsen": "6",
+        "better": "25",
+        "way": "10,35,4,18"
+    },
+    {
+        "worsen": "6",
+        "better": "26",
+        "way": "2,18,40,4"
+    },
+    {
+        "worsen": "6",
+        "better": "27",
+        "way": "32,35,40,4"
+    },
+    {
+        "worsen": "6",
+        "better": "28",
+        "way": "26,28,32,3"
+    },
+    {
+        "worsen": "6",
+        "better": "29",
+        "way": "2,29,18,36"
+    },
+    {
+        "worsen": "6",
+        "better": "30",
+        "way": "27,2,39,35"
+    },
+    {
+        "worsen": "6",
+        "better": "31",
+        "way": "22,1,40"
+    },
+    {
+        "worsen": "6",
+        "better": "32",
+        "way": "40,16"
+    },
+    {
+        "worsen": "6",
+        "better": "33",
+        "way": "16,4"
+    },
+    {
+        "worsen": "6",
+        "better": "34",
+        "way": "16"
+    },
+    {
+        "worsen": "6",
+        "better": "35",
+        "way": "15,16"
+    },
+    {
+        "worsen": "6",
+        "better": "36",
+        "way": "1,18,36"
+    },
+    {
+        "worsen": "6",
+        "better": "37",
+        "way": "2,35,30,18"
+    },
+    {
+        "worsen": "6",
+        "better": "38",
+        "way": "23"
+    },
+    {
+        "worsen": "6",
+        "better": "39",
+        "way": "10,15,17,7"
+    },
+    {
+        "worsen": "7",
+        "better": "1",
+        "way": "2,26,29,40"
+    },
+    {
+        "worsen": "7",
+        "better": "2",
+        "way": "-"
+    },
+    {
+        "worsen": "7",
+        "better": "3",
+        "way": "1,7,4,35"
+    },
+    {
+        "worsen": "7",
+        "better": "4",
+        "way": "-"
+    },
+    {
+        "worsen": "7",
+        "better": "5",
+        "way": "1,7,4,17"
+    },
+    {
+        "worsen": "7",
+        "better": "6",
+        "way": "-"
+    },
+    {
+        "worsen": "7",
+        "better": "7",
+        "way": "+"
+    },
+    {
+        "worsen": "7",
+        "better": "8",
+        "way": "-"
+    },
+    {
+        "worsen": "7",
+        "better": "9",
+        "way": "29,4,38,34"
+    },
+    {
+        "worsen": "7",
+        "better": "10",
+        "way": "15,35,36,37"
+    },
+    {
+        "worsen": "7",
+        "better": "11",
+        "way": "6,35,36,37"
+    },
+    {
+        "worsen": "7",
+        "better": "12",
+        "way": "1,15,29,4"
+    },
+    {
+        "worsen": "7",
+        "better": "13",
+        "way": "28,10,1,39"
+    },
+    {
+        "worsen": "7",
+        "better": "14",
+        "way": "9,14,15,7"
+    },
+    {
+        "worsen": "7",
+        "better": "15",
+        "way": "6,35,4"
+    },
+    {
+        "worsen": "7",
+        "better": "16",
+        "way": "-"
+    },
+    {
+        "worsen": "7",
+        "better": "17",
+        "way": "34,39,10,18"
+    },
+    {
+        "worsen": "7",
+        "better": "18",
+        "way": "2,13,10"
+    },
+    {
+        "worsen": "7",
+        "better": "19",
+        "way": "35"
+    },
+    {
+        "worsen": "7",
+        "better": "20",
+        "way": "-"
+    },
+    {
+        "worsen": "7",
+        "better": "21",
+        "way": "35,6,13,18"
+    },
+    {
+        "worsen": "7",
+        "better": "22",
+        "way": "7,15,13,16"
+    },
+    {
+        "worsen": "7",
+        "better": "23",
+        "way": "36,39,34,10"
+    },
+    {
+        "worsen": "7",
+        "better": "24",
+        "way": "2,22"
+    },
+    {
+        "worsen": "7",
+        "better": "25",
+        "way": "2,6,34,10"
+    },
+    {
+        "worsen": "7",
+        "better": "26",
+        "way": "29,30,7"
+    },
+    {
+        "worsen": "7",
+        "better": "27",
+        "way": "3,10,14,24"
+    },
+    {
+        "worsen": "7",
+        "better": "28",
+        "way": "25,26,28"
+    },
+    {
+        "worsen": "7",
+        "better": "29",
+        "way": "25,28,2,16"
+    },
+    {
+        "worsen": "7",
+        "better": "30",
+        "way": "22,21,27,35"
+    },
+    {
+        "worsen": "7",
+        "better": "31",
+        "way": "17,2,40,1"
+    },
+    {
+        "worsen": "7",
+        "better": "32",
+        "way": "29,1,40"
+    },
+    {
+        "worsen": "7",
+        "better": "33",
+        "way": "15,13,30,12"
+    },
+    {
+        "worsen": "7",
+        "better": "34",
+        "way": "10"
+    },
+    {
+        "worsen": "7",
+        "better": "35",
+        "way": "15,29"
+    },
+    {
+        "worsen": "7",
+        "better": "36",
+        "way": "26,1"
+    },
+    {
+        "worsen": "7",
+        "better": "37",
+        "way": "29,26,4"
+    },
+    {
+        "worsen": "7",
+        "better": "38",
+        "way": "35,34,16,24"
+    },
+    {
+        "worsen": "7",
+        "better": "39",
+        "way": "10,6,2,34"
+    },
+    {
+        "worsen": "8",
+        "better": "1",
+        "way": "-"
+    },
+    {
+        "worsen": "8",
+        "better": "2",
+        "way": "35,10,19,14"
+    },
+    {
+        "worsen": "8",
+        "better": "3",
+        "way": "19,14"
+    },
+    {
+        "worsen": "8",
+        "better": "4",
+        "way": "35,8,2,14"
+    },
+    {
+        "worsen": "8",
+        "better": "5",
+        "way": "-"
+    },
+    {
+        "worsen": "8",
+        "better": "6",
+        "way": ""
+    },
+    {
+        "worsen": "8",
+        "better": "7",
+        "way": "-"
+    },
+    {
+        "worsen": "8",
+        "better": "8",
+        "way": "+"
+    },
+    {
+        "worsen": "8",
+        "better": "9",
+        "way": "-"
+    },
+    {
+        "worsen": "8",
+        "better": "10",
+        "way": "2,18,37"
+    },
+    {
+        "worsen": "8",
+        "better": "11",
+        "way": "24,25"
+    },
+    {
+        "worsen": "8",
+        "better": "12",
+        "way": "7,2,35"
+    },
+    {
+        "worsen": "8",
+        "better": "13",
+        "way": "34,28,35,40"
+    },
+    {
+        "worsen": "8",
+        "better": "14",
+        "way": "9,14,17,15"
+    },
+    {
+        "worsen": "8",
+        "better": "15",
+        "way": "-"
+    },
+    {
+        "worsen": "8",
+        "better": "16",
+        "way": "35,34,38"
+    },
+    {
+        "worsen": "8",
+        "better": "17",
+        "way": "35,6,4"
+    },
+    {
+        "worsen": "8",
+        "better": "18",
+        "way": ""
+    },
+    {
+        "worsen": "8",
+        "better": "19",
+        "way": "-"
+    },
+    {
+        "worsen": "8",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "8",
+        "better": "21",
+        "way": "30,6"
+    },
+    {
+        "worsen": "8",
+        "better": "22",
+        "way": ""
+    },
+    {
+        "worsen": "8",
+        "better": "23",
+        "way": "10,39,35,34"
+    },
+    {
+        "worsen": "8",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "8",
+        "better": "25",
+        "way": "35,16,32,18"
+    },
+    {
+        "worsen": "8",
+        "better": "26",
+        "way": "35,3"
+    },
+    {
+        "worsen": "8",
+        "better": "27",
+        "way": "2,35,16"
+    },
+    {
+        "worsen": "8",
+        "better": "28",
+        "way": ""
+    },
+    {
+        "worsen": "8",
+        "better": "29",
+        "way": "35,10,25"
+    },
+    {
+        "worsen": "8",
+        "better": "30",
+        "way": "34,39,19,27"
+    },
+    {
+        "worsen": "8",
+        "better": "31",
+        "way": "30,18,35,4"
+    },
+    {
+        "worsen": "8",
+        "better": "32",
+        "way": "35"
+    },
+    {
+        "worsen": "8",
+        "better": "33",
+        "way": ""
+    },
+    {
+        "worsen": "8",
+        "better": "34",
+        "way": "1"
+    },
+    {
+        "worsen": "8",
+        "better": "35",
+        "way": ""
+    },
+    {
+        "worsen": "8",
+        "better": "36",
+        "way": "1,31"
+    },
+    {
+        "worsen": "8",
+        "better": "37",
+        "way": "2,17,26"
+    },
+    {
+        "worsen": "8",
+        "better": "38",
+        "way": ""
+    },
+    {
+        "worsen": "8",
+        "better": "39",
+        "way": "35,37,10,2"
+    },
+    {
+        "worsen": "9",
+        "better": "1",
+        "way": "2,28,13,38"
+    },
+    {
+        "worsen": "9",
+        "better": "2",
+        "way": "-"
+    },
+    {
+        "worsen": "9",
+        "better": "3",
+        "way": "13,14,8"
+    },
+    {
+        "worsen": "9",
+        "better": "4",
+        "way": "-"
+    },
+    {
+        "worsen": "9",
+        "better": "5",
+        "way": "29,30,34"
+    },
+    {
+        "worsen": "9",
+        "better": "6",
+        "way": "-"
+    },
+    {
+        "worsen": "9",
+        "better": "7",
+        "way": "7,29,34"
+    },
+    {
+        "worsen": "9",
+        "better": "8",
+        "way": "-"
+    },
+    {
+        "worsen": "9",
+        "better": "9",
+        "way": "+"
+    },
+    {
+        "worsen": "9",
+        "better": "10",
+        "way": "13,28,15,19"
+    },
+    {
+        "worsen": "9",
+        "better": "11",
+        "way": "6,18,38,40"
+    },
+    {
+        "worsen": "9",
+        "better": "12",
+        "way": "35,15,18,34"
+    },
+    {
+        "worsen": "9",
+        "better": "13",
+        "way": "28,33,1,18"
+    },
+    {
+        "worsen": "9",
+        "better": "14",
+        "way": "8,3,26,14"
+    },
+    {
+        "worsen": "9",
+        "better": "15",
+        "way": "3,19,35,5"
+    },
+    {
+        "worsen": "9",
+        "better": "16",
+        "way": "-"
+    },
+    {
+        "worsen": "9",
+        "better": "17",
+        "way": "28,30,36,2"
+    },
+    {
+        "worsen": "9",
+        "better": "18",
+        "way": "10,13,19"
+    },
+    {
+        "worsen": "9",
+        "better": "19",
+        "way": "8,15,35,38"
+    },
+    {
+        "worsen": "9",
+        "better": "20",
+        "way": "-"
+    },
+    {
+        "worsen": "9",
+        "better": "21",
+        "way": "19,35,38,2"
+    },
+    {
+        "worsen": "9",
+        "better": "22",
+        "way": "14,20,19,35"
+    },
+    {
+        "worsen": "9",
+        "better": "23",
+        "way": "10,13,28,38"
+    },
+    {
+        "worsen": "9",
+        "better": "24",
+        "way": "13,26"
+    },
+    {
+        "worsen": "9",
+        "better": "25",
+        "way": ""
+    },
+    {
+        "worsen": "9",
+        "better": "26",
+        "way": "10,19,29,38"
+    },
+    {
+        "worsen": "9",
+        "better": "27",
+        "way": "11,35,27,28"
+    },
+    {
+        "worsen": "9",
+        "better": "28",
+        "way": "28,32,1,24"
+    },
+    {
+        "worsen": "9",
+        "better": "29",
+        "way": "10,28,32,25"
+    },
+    {
+        "worsen": "9",
+        "better": "30",
+        "way": "1,28,35,23"
+    },
+    {
+        "worsen": "9",
+        "better": "31",
+        "way": "2,24,35,21"
+    },
+    {
+        "worsen": "9",
+        "better": "32",
+        "way": "35,13,8,1"
+    },
+    {
+        "worsen": "9",
+        "better": "33",
+        "way": "32,28,13,12"
+    },
+    {
+        "worsen": "9",
+        "better": "34",
+        "way": "34,2,28,27"
+    },
+    {
+        "worsen": "9",
+        "better": "35",
+        "way": "15,10,26"
+    },
+    {
+        "worsen": "9",
+        "better": "36",
+        "way": "10,28,4,34"
+    },
+    {
+        "worsen": "9",
+        "better": "37",
+        "way": "3,34,27,16"
+    },
+    {
+        "worsen": "9",
+        "better": "38",
+        "way": "10,18"
+    },
+    {
+        "worsen": "9",
+        "better": "39",
+        "way": ""
+    },
+    {
+        "worsen": "10",
+        "better": "1",
+        "way": "8,1,37,18"
+    },
+    {
+        "worsen": "10",
+        "better": "2",
+        "way": "18,13,1,28"
+    },
+    {
+        "worsen": "10",
+        "better": "3",
+        "way": "17,19,9,36"
+    },
+    {
+        "worsen": "10",
+        "better": "4",
+        "way": "28,10"
+    },
+    {
+        "worsen": "10",
+        "better": "5",
+        "way": "19,10,15"
+    },
+    {
+        "worsen": "10",
+        "better": "6",
+        "way": "1,18,36,37"
+    },
+    {
+        "worsen": "10",
+        "better": "7",
+        "way": "15,9,12,37"
+    },
+    {
+        "worsen": "10",
+        "better": "8",
+        "way": "2,36,18,37"
+    },
+    {
+        "worsen": "10",
+        "better": "9",
+        "way": "13,28,15,12"
+    },
+    {
+        "worsen": "10",
+        "better": "10",
+        "way": "+"
+    },
+    {
+        "worsen": "10",
+        "better": "11",
+        "way": "18,21,11"
+    },
+    {
+        "worsen": "10",
+        "better": "12",
+        "way": "10,35,40,34"
+    },
+    {
+        "worsen": "10",
+        "better": "13",
+        "way": "35,10,21"
+    },
+    {
+        "worsen": "10",
+        "better": "14",
+        "way": "35,10,14,27"
+    },
+    {
+        "worsen": "10",
+        "better": "15",
+        "way": "19,2"
+    },
+    {
+        "worsen": "10",
+        "better": "16",
+        "way": ""
+    },
+    {
+        "worsen": "10",
+        "better": "17",
+        "way": "35,10,21"
+    },
+    {
+        "worsen": "10",
+        "better": "18",
+        "way": "-"
+    },
+    {
+        "worsen": "10",
+        "better": "19",
+        "way": "19,17,10"
+    },
+    {
+        "worsen": "10",
+        "better": "20",
+        "way": "1,16,36,37"
+    },
+    {
+        "worsen": "10",
+        "better": "21",
+        "way": "19,35,18,37"
+    },
+    {
+        "worsen": "10",
+        "better": "22",
+        "way": "14,15"
+    },
+    {
+        "worsen": "10",
+        "better": "23",
+        "way": "8,35,40,5"
+    },
+    {
+        "worsen": "10",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "10",
+        "better": "25",
+        "way": "10,37,36"
+    },
+    {
+        "worsen": "10",
+        "better": "26",
+        "way": "14,29,18,36"
+    },
+    {
+        "worsen": "10",
+        "better": "27",
+        "way": "3,35,13,21"
+    },
+    {
+        "worsen": "10",
+        "better": "28",
+        "way": "35,10,23,24"
+    },
+    {
+        "worsen": "10",
+        "better": "29",
+        "way": "28,29,37,36"
+    },
+    {
+        "worsen": "10",
+        "better": "30",
+        "way": "1,35,40,18"
+    },
+    {
+        "worsen": "10",
+        "better": "31",
+        "way": "13,3,36,24"
+    },
+    {
+        "worsen": "10",
+        "better": "32",
+        "way": "15,37,18,1"
+    },
+    {
+        "worsen": "10",
+        "better": "33",
+        "way": "1,28,3,25"
+    },
+    {
+        "worsen": "10",
+        "better": "34",
+        "way": "15,1,11"
+    },
+    {
+        "worsen": "10",
+        "better": "35",
+        "way": "15,17,18,20"
+    },
+    {
+        "worsen": "10",
+        "better": "36",
+        "way": "26,35,110,18"
+    },
+    {
+        "worsen": "10",
+        "better": "37",
+        "way": "36,37,10,19"
+    },
+    {
+        "worsen": "10",
+        "better": "38",
+        "way": "2,35"
+    },
+    {
+        "worsen": "10",
+        "better": "39",
+        "way": "3,28,35,37"
+    },
+    {
+        "worsen": "11",
+        "better": "1",
+        "way": "10,36,37,40"
+    },
+    {
+        "worsen": "11",
+        "better": "2",
+        "way": "13,29,10,18"
+    },
+    {
+        "worsen": "11",
+        "better": "3",
+        "way": "35,10,36"
+    },
+    {
+        "worsen": "11",
+        "better": "4",
+        "way": "35,1,14,16"
+    },
+    {
+        "worsen": "11",
+        "better": "5",
+        "way": "10,15,36,28"
+    },
+    {
+        "worsen": "11",
+        "better": "6",
+        "way": "10,15,36,37"
+    },
+    {
+        "worsen": "11",
+        "better": "7",
+        "way": "6,35,10"
+    },
+    {
+        "worsen": "11",
+        "better": "8",
+        "way": "35,24"
+    },
+    {
+        "worsen": "11",
+        "better": "9",
+        "way": "6,35,36"
+    },
+    {
+        "worsen": "11",
+        "better": "10",
+        "way": "36,35,21"
+    },
+    {
+        "worsen": "11",
+        "better": "11",
+        "way": "+"
+    },
+    {
+        "worsen": "11",
+        "better": "12",
+        "way": "35,4,15,10"
+    },
+    {
+        "worsen": "11",
+        "better": "13",
+        "way": "35,33,2,40"
+    },
+    {
+        "worsen": "11",
+        "better": "14",
+        "way": "9,18,3,40"
+    },
+    {
+        "worsen": "11",
+        "better": "15",
+        "way": "19,3,27"
+    },
+    {
+        "worsen": "11",
+        "better": "16",
+        "way": ""
+    },
+    {
+        "worsen": "11",
+        "better": "17",
+        "way": "35,39,19,2"
+    },
+    {
+        "worsen": "11",
+        "better": "18",
+        "way": "-"
+    },
+    {
+        "worsen": "11",
+        "better": "19",
+        "way": "14,24,10,37"
+    },
+    {
+        "worsen": "11",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "11",
+        "better": "21",
+        "way": "10,35,14"
+    },
+    {
+        "worsen": "11",
+        "better": "22",
+        "way": "2,36,25"
+    },
+    {
+        "worsen": "11",
+        "better": "23",
+        "way": "10,36,3,37"
+    },
+    {
+        "worsen": "11",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "11",
+        "better": "25",
+        "way": "37,36,4"
+    },
+    {
+        "worsen": "11",
+        "better": "26",
+        "way": "10,14,36"
+    },
+    {
+        "worsen": "11",
+        "better": "27",
+        "way": "10,13,19,35"
+    },
+    {
+        "worsen": "11",
+        "better": "28",
+        "way": "6,28,25"
+    },
+    {
+        "worsen": "11",
+        "better": "29",
+        "way": "3,35"
+    },
+    {
+        "worsen": "11",
+        "better": "30",
+        "way": "22,2,37"
+    },
+    {
+        "worsen": "11",
+        "better": "31",
+        "way": "2,33,27,18"
+    },
+    {
+        "worsen": "11",
+        "better": "32",
+        "way": "1,35,16"
+    },
+    {
+        "worsen": "11",
+        "better": "33",
+        "way": "11"
+    },
+    {
+        "worsen": "11",
+        "better": "34",
+        "way": "2"
+    },
+    {
+        "worsen": "11",
+        "better": "35",
+        "way": "35"
+    },
+    {
+        "worsen": "11",
+        "better": "36",
+        "way": "19,1,35"
+    },
+    {
+        "worsen": "11",
+        "better": "37",
+        "way": "2,36,37"
+    },
+    {
+        "worsen": "11",
+        "better": "38",
+        "way": "35,24"
+    },
+    {
+        "worsen": "11",
+        "better": "39",
+        "way": "10,14,35,37"
+    },
+    {
+        "worsen": "12",
+        "better": "1",
+        "way": "8,10,29,40"
+    },
+    {
+        "worsen": "12",
+        "better": "2",
+        "way": "15,10,26,3"
+    },
+    {
+        "worsen": "12",
+        "better": "3",
+        "way": "29,34,5,4"
+    },
+    {
+        "worsen": "12",
+        "better": "4",
+        "way": "13,14,10,7"
+    },
+    {
+        "worsen": "12",
+        "better": "5",
+        "way": "5,34,4,10"
+    },
+    {
+        "worsen": "12",
+        "better": "6",
+        "way": ""
+    },
+    {
+        "worsen": "12",
+        "better": "7",
+        "way": "14,4,15,22"
+    },
+    {
+        "worsen": "12",
+        "better": "8",
+        "way": "7,2,35"
+    },
+    {
+        "worsen": "12",
+        "better": "9",
+        "way": "35,15,34,18"
+    },
+    {
+        "worsen": "12",
+        "better": "10",
+        "way": "35,10,37,40"
+    },
+    {
+        "worsen": "12",
+        "better": "11",
+        "way": "34,15,10,14"
+    },
+    {
+        "worsen": "12",
+        "better": "12",
+        "way": "+"
+    },
+    {
+        "worsen": "12",
+        "better": "13",
+        "way": "33,1,18,4"
+    },
+    {
+        "worsen": "12",
+        "better": "14",
+        "way": "30,14,10,10"
+    },
+    {
+        "worsen": "12",
+        "better": "15",
+        "way": "14,26,9,25"
+    },
+    {
+        "worsen": "12",
+        "better": "16",
+        "way": ""
+    },
+    {
+        "worsen": "12",
+        "better": "17",
+        "way": "22,14,19,32"
+    },
+    {
+        "worsen": "12",
+        "better": "18",
+        "way": "13,15,32"
+    },
+    {
+        "worsen": "12",
+        "better": "19",
+        "way": "2,6,34,14"
+    },
+    {
+        "worsen": "12",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "12",
+        "better": "21",
+        "way": "4,6,2"
+    },
+    {
+        "worsen": "12",
+        "better": "22",
+        "way": "14"
+    },
+    {
+        "worsen": "12",
+        "better": "23",
+        "way": "35,29,3,5"
+    },
+    {
+        "worsen": "12",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "12",
+        "better": "25",
+        "way": "14,10,34,17"
+    },
+    {
+        "worsen": "12",
+        "better": "26",
+        "way": "36,22"
+    },
+    {
+        "worsen": "12",
+        "better": "27",
+        "way": "10,10,16"
+    },
+    {
+        "worsen": "12",
+        "better": "28",
+        "way": "28,32,1"
+    },
+    {
+        "worsen": "12",
+        "better": "29",
+        "way": "32,30,40"
+    },
+    {
+        "worsen": "12",
+        "better": "30",
+        "way": "22,1,2,35"
+    },
+    {
+        "worsen": "12",
+        "better": "31",
+        "way": "35,1"
+    },
+    {
+        "worsen": "12",
+        "better": "32",
+        "way": "1,32,17,28"
+    },
+    {
+        "worsen": "12",
+        "better": "33",
+        "way": "32,15,26"
+    },
+    {
+        "worsen": "12",
+        "better": "34",
+        "way": "2,13,1"
+    },
+    {
+        "worsen": "12",
+        "better": "35",
+        "way": "1,15,29"
+    },
+    {
+        "worsen": "12",
+        "better": "36",
+        "way": "16,29,1,28"
+    },
+    {
+        "worsen": "12",
+        "better": "37",
+        "way": "15,13,39"
+    },
+    {
+        "worsen": "12",
+        "better": "38",
+        "way": "15,1,32"
+    },
+    {
+        "worsen": "12",
+        "better": "39",
+        "way": "17,26,34,10"
+    },
+    {
+        "worsen": "13",
+        "better": "1",
+        "way": "21,35,2,39"
+    },
+    {
+        "worsen": "13",
+        "better": "2",
+        "way": "26,39,1,40"
+    },
+    {
+        "worsen": "13",
+        "better": "3",
+        "way": "13,15,1,28"
+    },
+    {
+        "worsen": "13",
+        "better": "4",
+        "way": "37"
+    },
+    {
+        "worsen": "13",
+        "better": "5",
+        "way": "2,11,13"
+    },
+    {
+        "worsen": "13",
+        "better": "6",
+        "way": "39"
+    },
+    {
+        "worsen": "13",
+        "better": "7",
+        "way": "28,10,19,39"
+    },
+    {
+        "worsen": "13",
+        "better": "8",
+        "way": "34,28,35,40"
+    },
+    {
+        "worsen": "13",
+        "better": "9",
+        "way": "33,15,28,18"
+    },
+    {
+        "worsen": "13",
+        "better": "10",
+        "way": "10,35,21,16"
+    },
+    {
+        "worsen": "13",
+        "better": "11",
+        "way": "2,35,40"
+    },
+    {
+        "worsen": "13",
+        "better": "12",
+        "way": "22,1,18,4"
+    },
+    {
+        "worsen": "13",
+        "better": "13",
+        "way": "+"
+    },
+    {
+        "worsen": "13",
+        "better": "14",
+        "way": "17,9,15"
+    },
+    {
+        "worsen": "13",
+        "better": "15",
+        "way": "13,27,10,35"
+    },
+    {
+        "worsen": "13",
+        "better": "16",
+        "way": "39,3,35,23"
+    },
+    {
+        "worsen": "13",
+        "better": "17",
+        "way": "35,1,32"
+    },
+    {
+        "worsen": "13",
+        "better": "18",
+        "way": "32,3,27,16"
+    },
+    {
+        "worsen": "13",
+        "better": "19",
+        "way": "13,19"
+    },
+    {
+        "worsen": "13",
+        "better": "20",
+        "way": "27,4,29,18"
+    },
+    {
+        "worsen": "13",
+        "better": "21",
+        "way": "32,35,27,31"
+    },
+    {
+        "worsen": "13",
+        "better": "22",
+        "way": "14,2,39,6"
+    },
+    {
+        "worsen": "13",
+        "better": "23",
+        "way": "2,14,30,40"
+    },
+    {
+        "worsen": "13",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "13",
+        "better": "25",
+        "way": "35,27"
+    },
+    {
+        "worsen": "13",
+        "better": "26",
+        "way": "15,32,35"
+    },
+    {
+        "worsen": "13",
+        "better": "27",
+        "way": ""
+    },
+    {
+        "worsen": "13",
+        "better": "28",
+        "way": "13"
+    },
+    {
+        "worsen": "13",
+        "better": "29",
+        "way": "18"
+    },
+    {
+        "worsen": "13",
+        "better": "30",
+        "way": "35,24,30,18"
+    },
+    {
+        "worsen": "13",
+        "better": "31",
+        "way": "35,40,27,39"
+    },
+    {
+        "worsen": "13",
+        "better": "32",
+        "way": "35,19"
+    },
+    {
+        "worsen": "13",
+        "better": "33",
+        "way": "32,35,30"
+    },
+    {
+        "worsen": "13",
+        "better": "34",
+        "way": "2,35,10,16"
+    },
+    {
+        "worsen": "13",
+        "better": "35",
+        "way": "35,30,34,2"
+    },
+    {
+        "worsen": "13",
+        "better": "36",
+        "way": "2,35,22,26"
+    },
+    {
+        "worsen": "13",
+        "better": "37",
+        "way": "35,22,39,23"
+    },
+    {
+        "worsen": "13",
+        "better": "38",
+        "way": "1,8,35"
+    },
+    {
+        "worsen": "13",
+        "better": "39",
+        "way": "23,35,40,3"
+    },
+    {
+        "worsen": "14",
+        "better": "1",
+        "way": "1,8,40,15"
+    },
+    {
+        "worsen": "14",
+        "better": "2",
+        "way": "40,26,27,1"
+    },
+    {
+        "worsen": "14",
+        "better": "3",
+        "way": "1,15,8,35"
+    },
+    {
+        "worsen": "14",
+        "better": "4",
+        "way": "15,14,28,26"
+    },
+    {
+        "worsen": "14",
+        "better": "5",
+        "way": "3,34,40,29"
+    },
+    {
+        "worsen": "14",
+        "better": "6",
+        "way": "9,40,28"
+    },
+    {
+        "worsen": "14",
+        "better": "7",
+        "way": "10,15,14,7"
+    },
+    {
+        "worsen": "14",
+        "better": "8",
+        "way": "9,14,17,15"
+    },
+    {
+        "worsen": "14",
+        "better": "9",
+        "way": "8,13,26,14"
+    },
+    {
+        "worsen": "14",
+        "better": "10",
+        "way": "10,18,3,14"
+    },
+    {
+        "worsen": "14",
+        "better": "11",
+        "way": "10,3,18,40"
+    },
+    {
+        "worsen": "14",
+        "better": "12",
+        "way": "10,30,35,40"
+    },
+    {
+        "worsen": "14",
+        "better": "13",
+        "way": "13,17,35"
+    },
+    {
+        "worsen": "14",
+        "better": "14",
+        "way": "+"
+    },
+    {
+        "worsen": "14",
+        "better": "15",
+        "way": "27,3,26"
+    },
+    {
+        "worsen": "14",
+        "better": "16",
+        "way": ""
+    },
+    {
+        "worsen": "14",
+        "better": "17",
+        "way": "30,10,40"
+    },
+    {
+        "worsen": "14",
+        "better": "18",
+        "way": "35,19"
+    },
+    {
+        "worsen": "14",
+        "better": "19",
+        "way": "19,35,10"
+    },
+    {
+        "worsen": "14",
+        "better": "20",
+        "way": "35"
+    },
+    {
+        "worsen": "14",
+        "better": "21",
+        "way": "10,26,35,28"
+    },
+    {
+        "worsen": "14",
+        "better": "22",
+        "way": "35"
+    },
+    {
+        "worsen": "14",
+        "better": "23",
+        "way": "3,5,28,31,40"
+    },
+    {
+        "worsen": "14",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "14",
+        "better": "25",
+        "way": "29,3,28,10"
+    },
+    {
+        "worsen": "14",
+        "better": "26",
+        "way": "29,10,27"
+    },
+    {
+        "worsen": "14",
+        "better": "27",
+        "way": "11,3"
+    },
+    {
+        "worsen": "14",
+        "better": "28",
+        "way": "3,27,16"
+    },
+    {
+        "worsen": "14",
+        "better": "29",
+        "way": "3,27"
+    },
+    {
+        "worsen": "14",
+        "better": "30",
+        "way": "18,35,37,1"
+    },
+    {
+        "worsen": "14",
+        "better": "31",
+        "way": "15,35,22,2"
+    },
+    {
+        "worsen": "14",
+        "better": "32",
+        "way": "11,3,10,32"
+    },
+    {
+        "worsen": "14",
+        "better": "33",
+        "way": "32,40,25,2"
+    },
+    {
+        "worsen": "14",
+        "better": "34",
+        "way": "27,11,3"
+    },
+    {
+        "worsen": "14",
+        "better": "35",
+        "way": "15,3,32"
+    },
+    {
+        "worsen": "14",
+        "better": "36",
+        "way": "2,13,25,28"
+    },
+    {
+        "worsen": "14",
+        "better": "37",
+        "way": "27,3,15,40"
+    },
+    {
+        "worsen": "14",
+        "better": "38",
+        "way": "15"
+    },
+    {
+        "worsen": "14",
+        "better": "39",
+        "way": "29,35,10,14"
+    },
+    {
+        "worsen": "15",
+        "better": "1",
+        "way": "19,5,34,31"
+    },
+    {
+        "worsen": "15",
+        "better": "2",
+        "way": "-"
+    },
+    {
+        "worsen": "15",
+        "better": "3",
+        "way": "2,19,9"
+    },
+    {
+        "worsen": "15",
+        "better": "4",
+        "way": "-"
+    },
+    {
+        "worsen": "15",
+        "better": "5",
+        "way": "3,17,19"
+    },
+    {
+        "worsen": "15",
+        "better": "6",
+        "way": "-"
+    },
+    {
+        "worsen": "15",
+        "better": "7",
+        "way": "10,2,19,30"
+    },
+    {
+        "worsen": "15",
+        "better": "8",
+        "way": "-"
+    },
+    {
+        "worsen": "15",
+        "better": "9",
+        "way": "3,35,5"
+    },
+    {
+        "worsen": "15",
+        "better": "10",
+        "way": "19,2,16"
+    },
+    {
+        "worsen": "15",
+        "better": "11",
+        "way": "19,3,27"
+    },
+    {
+        "worsen": "15",
+        "better": "12",
+        "way": "14,26,28,25"
+    },
+    {
+        "worsen": "15",
+        "better": "13",
+        "way": "13,3,35"
+    },
+    {
+        "worsen": "15",
+        "better": "14",
+        "way": "27,3,10"
+    },
+    {
+        "worsen": "15",
+        "better": "15",
+        "way": "+"
+    },
+    {
+        "worsen": "15",
+        "better": "16",
+        "way": "-"
+    },
+    {
+        "worsen": "15",
+        "better": "17",
+        "way": "19,35,39"
+    },
+    {
+        "worsen": "15",
+        "better": "18",
+        "way": "2,19,4,35"
+    },
+    {
+        "worsen": "15",
+        "better": "19",
+        "way": "28,6,35,18"
+    },
+    {
+        "worsen": "15",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "15",
+        "better": "21",
+        "way": "19,10,35,38"
+    },
+    {
+        "worsen": "15",
+        "better": "22",
+        "way": ""
+    },
+    {
+        "worsen": "15",
+        "better": "23",
+        "way": "28,27,3,18"
+    },
+    {
+        "worsen": "15",
+        "better": "24",
+        "way": "10"
+    },
+    {
+        "worsen": "15",
+        "better": "25",
+        "way": "20,10,28,18"
+    },
+    {
+        "worsen": "15",
+        "better": "26",
+        "way": "3,35,10,40"
+    },
+    {
+        "worsen": "15",
+        "better": "27",
+        "way": "11,2,13"
+    },
+    {
+        "worsen": "15",
+        "better": "28",
+        "way": "3"
+    },
+    {
+        "worsen": "15",
+        "better": "29",
+        "way": "3,27,16,40"
+    },
+    {
+        "worsen": "15",
+        "better": "30",
+        "way": "22,15,33,28"
+    },
+    {
+        "worsen": "15",
+        "better": "31",
+        "way": "21,39,16,22"
+    },
+    {
+        "worsen": "15",
+        "better": "32",
+        "way": "27,1,4"
+    },
+    {
+        "worsen": "15",
+        "better": "33",
+        "way": "12,27"
+    },
+    {
+        "worsen": "15",
+        "better": "34",
+        "way": "29,10,27"
+    },
+    {
+        "worsen": "15",
+        "better": "35",
+        "way": "1,35,13"
+    },
+    {
+        "worsen": "15",
+        "better": "36",
+        "way": "10,4,29,15"
+    },
+    {
+        "worsen": "15",
+        "better": "37",
+        "way": "19,29,39,35"
+    },
+    {
+        "worsen": "15",
+        "better": "38",
+        "way": "6,10"
+    },
+    {
+        "worsen": "15",
+        "better": "39",
+        "way": "35,17,14,19"
+    },
+    {
+        "worsen": "16",
+        "better": "1",
+        "way": "-"
+    },
+    {
+        "worsen": "16",
+        "better": "2",
+        "way": "6,27,19,16"
+    },
+    {
+        "worsen": "16",
+        "better": "3",
+        "way": "-"
+    },
+    {
+        "worsen": "16",
+        "better": "4",
+        "way": "1,40,35"
+    },
+    {
+        "worsen": "16",
+        "better": "5",
+        "way": "-"
+    },
+    {
+        "worsen": "16",
+        "better": "6",
+        "way": ""
+    },
+    {
+        "worsen": "16",
+        "better": "7",
+        "way": "-"
+    },
+    {
+        "worsen": "16",
+        "better": "8",
+        "way": "35,34,38"
+    },
+    {
+        "worsen": "16",
+        "better": "9",
+        "way": "-"
+    },
+    {
+        "worsen": "16",
+        "better": "10",
+        "way": ""
+    },
+    {
+        "worsen": "16",
+        "better": "11",
+        "way": ""
+    },
+    {
+        "worsen": "16",
+        "better": "12",
+        "way": ""
+    },
+    {
+        "worsen": "16",
+        "better": "13",
+        "way": "39,3,35,23"
+    },
+    {
+        "worsen": "16",
+        "better": "14",
+        "way": ""
+    },
+    {
+        "worsen": "16",
+        "better": "15",
+        "way": "-"
+    },
+    {
+        "worsen": "16",
+        "better": "16",
+        "way": "+"
+    },
+    {
+        "worsen": "16",
+        "better": "17",
+        "way": "19,18,36,40"
+    },
+    {
+        "worsen": "16",
+        "better": "18",
+        "way": ""
+    },
+    {
+        "worsen": "16",
+        "better": "19",
+        "way": "-"
+    },
+    {
+        "worsen": "16",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "16",
+        "better": "21",
+        "way": "16"
+    },
+    {
+        "worsen": "16",
+        "better": "22",
+        "way": ""
+    },
+    {
+        "worsen": "16",
+        "better": "23",
+        "way": "27,16,18,38"
+    },
+    {
+        "worsen": "16",
+        "better": "24",
+        "way": "10"
+    },
+    {
+        "worsen": "16",
+        "better": "25",
+        "way": "28,20,110,16"
+    },
+    {
+        "worsen": "16",
+        "better": "26",
+        "way": "3,35,31"
+    },
+    {
+        "worsen": "16",
+        "better": "27",
+        "way": "34,27,6,40"
+    },
+    {
+        "worsen": "16",
+        "better": "28",
+        "way": "10,26,24"
+    },
+    {
+        "worsen": "16",
+        "better": "29",
+        "way": ""
+    },
+    {
+        "worsen": "16",
+        "better": "30",
+        "way": "17,1,40,33"
+    },
+    {
+        "worsen": "16",
+        "better": "31",
+        "way": "22"
+    },
+    {
+        "worsen": "16",
+        "better": "32",
+        "way": "35,10"
+    },
+    {
+        "worsen": "16",
+        "better": "33",
+        "way": "1"
+    },
+    {
+        "worsen": "16",
+        "better": "34",
+        "way": "1"
+    },
+    {
+        "worsen": "16",
+        "better": "35",
+        "way": "2"
+    },
+    {
+        "worsen": "16",
+        "better": "36",
+        "way": ""
+    },
+    {
+        "worsen": "16",
+        "better": "37",
+        "way": "25,34,6,35"
+    },
+    {
+        "worsen": "16",
+        "better": "38",
+        "way": "1"
+    },
+    {
+        "worsen": "16",
+        "better": "39",
+        "way": "20,10,16,38"
+    },
+    {
+        "worsen": "17",
+        "better": "1",
+        "way": "36,22,6,38"
+    },
+    {
+        "worsen": "17",
+        "better": "2",
+        "way": "22,35,32"
+    },
+    {
+        "worsen": "17",
+        "better": "3",
+        "way": "15,19,9"
+    },
+    {
+        "worsen": "17",
+        "better": "4",
+        "way": "15,19,9"
+    },
+    {
+        "worsen": "17",
+        "better": "5",
+        "way": "3,35,39,18"
+    },
+    {
+        "worsen": "17",
+        "better": "6",
+        "way": "35,38"
+    },
+    {
+        "worsen": "17",
+        "better": "7",
+        "way": "34,39,40,18"
+    },
+    {
+        "worsen": "17",
+        "better": "8",
+        "way": "35,6,4"
+    },
+    {
+        "worsen": "17",
+        "better": "9",
+        "way": "2,28,36,30"
+    },
+    {
+        "worsen": "17",
+        "better": "10",
+        "way": "35,10,3,21"
+    },
+    {
+        "worsen": "17",
+        "better": "11",
+        "way": "35,39,19,2"
+    },
+    {
+        "worsen": "17",
+        "better": "12",
+        "way": "14,22,19,32"
+    },
+    {
+        "worsen": "17",
+        "better": "13",
+        "way": "1,35,32"
+    },
+    {
+        "worsen": "17",
+        "better": "14",
+        "way": "10,30,22,40"
+    },
+    {
+        "worsen": "17",
+        "better": "15",
+        "way": "19,13,39"
+    },
+    {
+        "worsen": "17",
+        "better": "16",
+        "way": "19,18,36,40"
+    },
+    {
+        "worsen": "17",
+        "better": "17",
+        "way": "+"
+    },
+    {
+        "worsen": "17",
+        "better": "18",
+        "way": "32,30,21,16"
+    },
+    {
+        "worsen": "17",
+        "better": "19",
+        "way": "19,15,3,17"
+    },
+    {
+        "worsen": "17",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "17",
+        "better": "21",
+        "way": "2,14,17,25"
+    },
+    {
+        "worsen": "17",
+        "better": "22",
+        "way": "21,17,35,38"
+    },
+    {
+        "worsen": "17",
+        "better": "23",
+        "way": "21,36,29,31"
+    },
+    {
+        "worsen": "17",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "17",
+        "better": "25",
+        "way": "35,28,21,18"
+    },
+    {
+        "worsen": "17",
+        "better": "26",
+        "way": "3,17,30,39"
+    },
+    {
+        "worsen": "17",
+        "better": "27",
+        "way": "19,35,3,10"
+    },
+    {
+        "worsen": "17",
+        "better": "28",
+        "way": "32,19,24"
+    },
+    {
+        "worsen": "17",
+        "better": "29",
+        "way": "24"
+    },
+    {
+        "worsen": "17",
+        "better": "30",
+        "way": "22,33,35,2"
+    },
+    {
+        "worsen": "17",
+        "better": "31",
+        "way": "22,35,2,24"
+    },
+    {
+        "worsen": "17",
+        "better": "32",
+        "way": "26,27"
+    },
+    {
+        "worsen": "17",
+        "better": "33",
+        "way": "26,27"
+    },
+    {
+        "worsen": "17",
+        "better": "34",
+        "way": "4,10,16"
+    },
+    {
+        "worsen": "17",
+        "better": "35",
+        "way": "2,18,27"
+    },
+    {
+        "worsen": "17",
+        "better": "36",
+        "way": "2,17,16"
+    },
+    {
+        "worsen": "17",
+        "better": "37",
+        "way": "3,27,35,31"
+    },
+    {
+        "worsen": "17",
+        "better": "38",
+        "way": "26,2,19,16"
+    },
+    {
+        "worsen": "17",
+        "better": "39",
+        "way": "15,28,35"
+    },
+    {
+        "worsen": "18",
+        "better": "1",
+        "way": "19,1,32"
+    },
+    {
+        "worsen": "18",
+        "better": "2",
+        "way": "2,35,32"
+    },
+    {
+        "worsen": "18",
+        "better": "3",
+        "way": "19,32,16"
+    },
+    {
+        "worsen": "18",
+        "better": "4",
+        "way": ""
+    },
+    {
+        "worsen": "18",
+        "better": "5",
+        "way": "19,32,26"
+    },
+    {
+        "worsen": "18",
+        "better": "6",
+        "way": ""
+    },
+    {
+        "worsen": "18",
+        "better": "7",
+        "way": "2,13,10"
+    },
+    {
+        "worsen": "18",
+        "better": "8",
+        "way": ""
+    },
+    {
+        "worsen": "18",
+        "better": "9",
+        "way": "10,13,19"
+    },
+    {
+        "worsen": "18",
+        "better": "10",
+        "way": "26,19,6"
+    },
+    {
+        "worsen": "18",
+        "better": "11",
+        "way": ""
+    },
+    {
+        "worsen": "18",
+        "better": "12",
+        "way": "32,30"
+    },
+    {
+        "worsen": "18",
+        "better": "13",
+        "way": "32,3,27"
+    },
+    {
+        "worsen": "18",
+        "better": "14",
+        "way": "35,19"
+    },
+    {
+        "worsen": "18",
+        "better": "15",
+        "way": "2,19,6"
+    },
+    {
+        "worsen": "18",
+        "better": "16",
+        "way": ""
+    },
+    {
+        "worsen": "18",
+        "better": "17",
+        "way": "32,35,19"
+    },
+    {
+        "worsen": "18",
+        "better": "18",
+        "way": "+"
+    },
+    {
+        "worsen": "18",
+        "better": "19",
+        "way": "32,1,19"
+    },
+    {
+        "worsen": "18",
+        "better": "20",
+        "way": "32,35,1,15"
+    },
+    {
+        "worsen": "18",
+        "better": "21",
+        "way": "32"
+    },
+    {
+        "worsen": "18",
+        "better": "22",
+        "way": "13,16,1,6"
+    },
+    {
+        "worsen": "18",
+        "better": "23",
+        "way": "13,1"
+    },
+    {
+        "worsen": "18",
+        "better": "24",
+        "way": "1,6"
+    },
+    {
+        "worsen": "18",
+        "better": "25",
+        "way": "19,1,26,17"
+    },
+    {
+        "worsen": "18",
+        "better": "26",
+        "way": "1,19"
+    },
+    {
+        "worsen": "18",
+        "better": "27",
+        "way": ""
+    },
+    {
+        "worsen": "18",
+        "better": "28",
+        "way": "11,15,32"
+    },
+    {
+        "worsen": "18",
+        "better": "29",
+        "way": "3,32"
+    },
+    {
+        "worsen": "18",
+        "better": "30",
+        "way": "15,19"
+    },
+    {
+        "worsen": "18",
+        "better": "31",
+        "way": "35,19,32,39"
+    },
+    {
+        "worsen": "18",
+        "better": "32",
+        "way": "19,35,28,26"
+    },
+    {
+        "worsen": "18",
+        "better": "33",
+        "way": "28,26,19"
+    },
+    {
+        "worsen": "18",
+        "better": "34",
+        "way": "15,17,13,16"
+    },
+    {
+        "worsen": "18",
+        "better": "35",
+        "way": "15,1,19"
+    },
+    {
+        "worsen": "18",
+        "better": "36",
+        "way": "6,32,13"
+    },
+    {
+        "worsen": "18",
+        "better": "37",
+        "way": "32,15"
+    },
+    {
+        "worsen": "18",
+        "better": "38",
+        "way": "2,26,10"
+    },
+    {
+        "worsen": "18",
+        "better": "39",
+        "way": "2,25,16"
+    },
+    {
+        "worsen": "19",
+        "better": "1",
+        "way": "12,18,28,31"
+    },
+    {
+        "worsen": "19",
+        "better": "2",
+        "way": "-"
+    },
+    {
+        "worsen": "19",
+        "better": "3",
+        "way": "12,38"
+    },
+    {
+        "worsen": "19",
+        "better": "4",
+        "way": "-"
+    },
+    {
+        "worsen": "19",
+        "better": "5",
+        "way": "15,19,25"
+    },
+    {
+        "worsen": "19",
+        "better": "6",
+        "way": "-"
+    },
+    {
+        "worsen": "19",
+        "better": "7",
+        "way": "35,13,18"
+    },
+    {
+        "worsen": "19",
+        "better": "8",
+        "way": "-"
+    },
+    {
+        "worsen": "19",
+        "better": "9",
+        "way": "8,15,35"
+    },
+    {
+        "worsen": "19",
+        "better": "10",
+        "way": "16,26,21,2"
+    },
+    {
+        "worsen": "19",
+        "better": "11",
+        "way": "23,14,25"
+    },
+    {
+        "worsen": "19",
+        "better": "12",
+        "way": "12,2,29"
+    },
+    {
+        "worsen": "19",
+        "better": "13",
+        "way": "19,13,17,24"
+    },
+    {
+        "worsen": "19",
+        "better": "14",
+        "way": "5,19,9,35"
+    },
+    {
+        "worsen": "19",
+        "better": "15",
+        "way": "29,35,6,18"
+    },
+    {
+        "worsen": "19",
+        "better": "16",
+        "way": "-"
+    },
+    {
+        "worsen": "19",
+        "better": "17",
+        "way": "19,24,3,14"
+    },
+    {
+        "worsen": "19",
+        "better": "18",
+        "way": "2,15,19"
+    },
+    {
+        "worsen": "19",
+        "better": "19",
+        "way": "+"
+    },
+    {
+        "worsen": "19",
+        "better": "20",
+        "way": "-"
+    },
+    {
+        "worsen": "19",
+        "better": "21",
+        "way": "6,19,37,18"
+    },
+    {
+        "worsen": "19",
+        "better": "22",
+        "way": "12,22,15,24"
+    },
+    {
+        "worsen": "19",
+        "better": "23",
+        "way": "35,24,18,5"
+    },
+    {
+        "worsen": "19",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "19",
+        "better": "25",
+        "way": "35,38,19,18"
+    },
+    {
+        "worsen": "19",
+        "better": "26",
+        "way": "34,23,16,18"
+    },
+    {
+        "worsen": "19",
+        "better": "27",
+        "way": "19,21,27"
+    },
+    {
+        "worsen": "19",
+        "better": "28",
+        "way": "3,1,32"
+    },
+    {
+        "worsen": "19",
+        "better": "29",
+        "way": ""
+    },
+    {
+        "worsen": "19",
+        "better": "30",
+        "way": "1,35,6,27"
+    },
+    {
+        "worsen": "19",
+        "better": "31",
+        "way": "2,35,6"
+    },
+    {
+        "worsen": "19",
+        "better": "32",
+        "way": "28,26,30"
+    },
+    {
+        "worsen": "19",
+        "better": "33",
+        "way": "19,35"
+    },
+    {
+        "worsen": "19",
+        "better": "34",
+        "way": "1,15,17,28"
+    },
+    {
+        "worsen": "19",
+        "better": "35",
+        "way": "15,17,13,16"
+    },
+    {
+        "worsen": "19",
+        "better": "36",
+        "way": "2,29,27,28"
+    },
+    {
+        "worsen": "19",
+        "better": "37",
+        "way": "35,38"
+    },
+    {
+        "worsen": "19",
+        "better": "38",
+        "way": "32,2"
+    },
+    {
+        "worsen": "19",
+        "better": "39",
+        "way": "12,28,35"
+    },
+    {
+        "worsen": "20",
+        "better": "1",
+        "way": "-"
+    },
+    {
+        "worsen": "20",
+        "better": "2",
+        "way": "19,9,6,27"
+    },
+    {
+        "worsen": "20",
+        "better": "3",
+        "way": "-"
+    },
+    {
+        "worsen": "20",
+        "better": "4",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "5",
+        "way": "-"
+    },
+    {
+        "worsen": "20",
+        "better": "6",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "7",
+        "way": "-"
+    },
+    {
+        "worsen": "20",
+        "better": "8",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "9",
+        "way": "-"
+    },
+    {
+        "worsen": "20",
+        "better": "10",
+        "way": "36,37"
+    },
+    {
+        "worsen": "20",
+        "better": "11",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "12",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "13",
+        "way": "27,4,29,18"
+    },
+    {
+        "worsen": "20",
+        "better": "14",
+        "way": "35"
+    },
+    {
+        "worsen": "20",
+        "better": "15",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "16",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "17",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "18",
+        "way": "19,2,35,32"
+    },
+    {
+        "worsen": "20",
+        "better": "19",
+        "way": "-"
+    },
+    {
+        "worsen": "20",
+        "better": "20",
+        "way": "+"
+    },
+    {
+        "worsen": "20",
+        "better": "21",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "22",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "23",
+        "way": "28,27,18,31"
+    },
+    {
+        "worsen": "20",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "25",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "26",
+        "way": "3,35,31"
+    },
+    {
+        "worsen": "20",
+        "better": "27",
+        "way": "10,36,23"
+    },
+    {
+        "worsen": "20",
+        "better": "28",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "29",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "30",
+        "way": "10,2,22,37"
+    },
+    {
+        "worsen": "20",
+        "better": "31",
+        "way": "19,22,18"
+    },
+    {
+        "worsen": "20",
+        "better": "32",
+        "way": "1,4"
+    },
+    {
+        "worsen": "20",
+        "better": "33",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "34",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "35",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "36",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "37",
+        "way": "19,35,16,25"
+    },
+    {
+        "worsen": "20",
+        "better": "38",
+        "way": ""
+    },
+    {
+        "worsen": "20",
+        "better": "39",
+        "way": "1,6"
+    },
+    {
+        "worsen": "21",
+        "better": "1",
+        "way": "8,36,38,31"
+    },
+    {
+        "worsen": "21",
+        "better": "2",
+        "way": "19,26,17,27"
+    },
+    {
+        "worsen": "21",
+        "better": "3",
+        "way": "1,10,35,37"
+    },
+    {
+        "worsen": "21",
+        "better": "4",
+        "way": ""
+    },
+    {
+        "worsen": "21",
+        "better": "5",
+        "way": "19,38"
+    },
+    {
+        "worsen": "21",
+        "better": "6",
+        "way": "17,32,13,38"
+    },
+    {
+        "worsen": "21",
+        "better": "7",
+        "way": "35,6,38"
+    },
+    {
+        "worsen": "21",
+        "better": "8",
+        "way": "30,6,25"
+    },
+    {
+        "worsen": "21",
+        "better": "9",
+        "way": "15,35,2"
+    },
+    {
+        "worsen": "21",
+        "better": "10",
+        "way": "26,2,36,35"
+    },
+    {
+        "worsen": "21",
+        "better": "11",
+        "way": "22,10,35"
+    },
+    {
+        "worsen": "21",
+        "better": "12",
+        "way": "29,14,2,40"
+    },
+    {
+        "worsen": "21",
+        "better": "13",
+        "way": "35,32,15,31"
+    },
+    {
+        "worsen": "21",
+        "better": "14",
+        "way": "26,10,28"
+    },
+    {
+        "worsen": "21",
+        "better": "15",
+        "way": "19,35,10,38"
+    },
+    {
+        "worsen": "21",
+        "better": "16",
+        "way": "16"
+    },
+    {
+        "worsen": "21",
+        "better": "17",
+        "way": "2,14,17,25"
+    },
+    {
+        "worsen": "21",
+        "better": "18",
+        "way": "16,6,19"
+    },
+    {
+        "worsen": "21",
+        "better": "19",
+        "way": "16,6,19,37"
+    },
+    {
+        "worsen": "21",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "21",
+        "better": "21",
+        "way": "+"
+    },
+    {
+        "worsen": "21",
+        "better": "22",
+        "way": "10,35,38"
+    },
+    {
+        "worsen": "21",
+        "better": "23",
+        "way": "28,27,18,38"
+    },
+    {
+        "worsen": "21",
+        "better": "24",
+        "way": "10,19"
+    },
+    {
+        "worsen": "21",
+        "better": "25",
+        "way": "35,20,10,6"
+    },
+    {
+        "worsen": "21",
+        "better": "26",
+        "way": "4,34,19"
+    },
+    {
+        "worsen": "21",
+        "better": "27",
+        "way": "19,24,26,31"
+    },
+    {
+        "worsen": "21",
+        "better": "28",
+        "way": "32,15,2"
+    },
+    {
+        "worsen": "21",
+        "better": "29",
+        "way": "32,2"
+    },
+    {
+        "worsen": "21",
+        "better": "30",
+        "way": "19,22,31,2"
+    },
+    {
+        "worsen": "21",
+        "better": "31",
+        "way": "2,35,18"
+    },
+    {
+        "worsen": "21",
+        "better": "32",
+        "way": "26,10,34"
+    },
+    {
+        "worsen": "21",
+        "better": "33",
+        "way": "26,35,10"
+    },
+    {
+        "worsen": "21",
+        "better": "34",
+        "way": "35,2,10,34"
+    },
+    {
+        "worsen": "21",
+        "better": "35",
+        "way": "19,17,34"
+    },
+    {
+        "worsen": "21",
+        "better": "36",
+        "way": "20,19,30,34"
+    },
+    {
+        "worsen": "21",
+        "better": "37",
+        "way": "19,35,16"
+    },
+    {
+        "worsen": "21",
+        "better": "38",
+        "way": "28,2,17"
+    },
+    {
+        "worsen": "21",
+        "better": "39",
+        "way": "28,35,34"
+    },
+    {
+        "worsen": "22",
+        "better": "1",
+        "way": "15,6,19,28"
+    },
+    {
+        "worsen": "22",
+        "better": "2",
+        "way": "19,6,18,9"
+    },
+    {
+        "worsen": "22",
+        "better": "3",
+        "way": "7,2,6,13"
+    },
+    {
+        "worsen": "22",
+        "better": "4",
+        "way": "6,38,7"
+    },
+    {
+        "worsen": "22",
+        "better": "5",
+        "way": "15,26,17,30"
+    },
+    {
+        "worsen": "22",
+        "better": "6",
+        "way": "17,7,30,18"
+    },
+    {
+        "worsen": "22",
+        "better": "7",
+        "way": "7,18,23"
+    },
+    {
+        "worsen": "22",
+        "better": "8",
+        "way": "7"
+    },
+    {
+        "worsen": "22",
+        "better": "9",
+        "way": "16,35,38"
+    },
+    {
+        "worsen": "22",
+        "better": "10",
+        "way": "36,38"
+    },
+    {
+        "worsen": "22",
+        "better": "11",
+        "way": ""
+    },
+    {
+        "worsen": "22",
+        "better": "12",
+        "way": ""
+    },
+    {
+        "worsen": "22",
+        "better": "13",
+        "way": "14,2,39,6"
+    },
+    {
+        "worsen": "22",
+        "better": "14",
+        "way": "26"
+    },
+    {
+        "worsen": "22",
+        "better": "15",
+        "way": ""
+    },
+    {
+        "worsen": "22",
+        "better": "16",
+        "way": ""
+    },
+    {
+        "worsen": "22",
+        "better": "17",
+        "way": "19,38,7"
+    },
+    {
+        "worsen": "22",
+        "better": "18",
+        "way": "1,13,32,15"
+    },
+    {
+        "worsen": "22",
+        "better": "19",
+        "way": ""
+    },
+    {
+        "worsen": "22",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "22",
+        "better": "21",
+        "way": "3,28"
+    },
+    {
+        "worsen": "22",
+        "better": "22",
+        "way": "+"
+    },
+    {
+        "worsen": "22",
+        "better": "23",
+        "way": "35,27,2,37"
+    },
+    {
+        "worsen": "22",
+        "better": "24",
+        "way": "19,10"
+    },
+    {
+        "worsen": "22",
+        "better": "25",
+        "way": "10,18,32,7"
+    },
+    {
+        "worsen": "22",
+        "better": "26",
+        "way": "7,18,25"
+    },
+    {
+        "worsen": "22",
+        "better": "27",
+        "way": "11,10,35"
+    },
+    {
+        "worsen": "22",
+        "better": "28",
+        "way": "32"
+    },
+    {
+        "worsen": "22",
+        "better": "29",
+        "way": ""
+    },
+    {
+        "worsen": "22",
+        "better": "30",
+        "way": "21,22,35,2"
+    },
+    {
+        "worsen": "22",
+        "better": "31",
+        "way": "21,35,2,22"
+    },
+    {
+        "worsen": "22",
+        "better": "32",
+        "way": ""
+    },
+    {
+        "worsen": "22",
+        "better": "33",
+        "way": "35,32,1"
+    },
+    {
+        "worsen": "22",
+        "better": "34",
+        "way": "2,19"
+    },
+    {
+        "worsen": "22",
+        "better": "35",
+        "way": ""
+    },
+    {
+        "worsen": "22",
+        "better": "36",
+        "way": "7,23"
+    },
+    {
+        "worsen": "22",
+        "better": "37",
+        "way": "35,3,15,23"
+    },
+    {
+        "worsen": "22",
+        "better": "38",
+        "way": "2"
+    },
+    {
+        "worsen": "22",
+        "better": "39",
+        "way": "28,10,29,35"
+    },
+    {
+        "worsen": "23",
+        "better": "1",
+        "way": "35,6,23,40"
+    },
+    {
+        "worsen": "23",
+        "better": "2",
+        "way": "35,6,22,32"
+    },
+    {
+        "worsen": "23",
+        "better": "3",
+        "way": "14,29,10,39"
+    },
+    {
+        "worsen": "23",
+        "better": "4",
+        "way": "10,28,24"
+    },
+    {
+        "worsen": "23",
+        "better": "5",
+        "way": "35,2,10,31"
+    },
+    {
+        "worsen": "23",
+        "better": "6",
+        "way": "10,18,39,31"
+    },
+    {
+        "worsen": "23",
+        "better": "7",
+        "way": "1,29,30,36"
+    },
+    {
+        "worsen": "23",
+        "better": "8",
+        "way": "3,39,18,31"
+    },
+    {
+        "worsen": "23",
+        "better": "9",
+        "way": "10,13,28,38"
+    },
+    {
+        "worsen": "23",
+        "better": "10",
+        "way": "14,15,18,40"
+    },
+    {
+        "worsen": "23",
+        "better": "11",
+        "way": "3,36,37,10"
+    },
+    {
+        "worsen": "23",
+        "better": "12",
+        "way": "29,35,3,5"
+    },
+    {
+        "worsen": "23",
+        "better": "13",
+        "way": "2,14,30,40"
+    },
+    {
+        "worsen": "23",
+        "better": "14",
+        "way": "35,28,31,40"
+    },
+    {
+        "worsen": "23",
+        "better": "15",
+        "way": "28,27,3,18"
+    },
+    {
+        "worsen": "23",
+        "better": "16",
+        "way": "27,16,18,38"
+    },
+    {
+        "worsen": "23",
+        "better": "17",
+        "way": "21,36,39,31"
+    },
+    {
+        "worsen": "23",
+        "better": "18",
+        "way": "1,6,13"
+    },
+    {
+        "worsen": "23",
+        "better": "19",
+        "way": "35,18,24,5"
+    },
+    {
+        "worsen": "23",
+        "better": "20",
+        "way": "28,27,12,31"
+    },
+    {
+        "worsen": "23",
+        "better": "21",
+        "way": "28,27,18,38"
+    },
+    {
+        "worsen": "23",
+        "better": "22",
+        "way": "35,27,2,31"
+    },
+    {
+        "worsen": "23",
+        "better": "23",
+        "way": "+"
+    },
+    {
+        "worsen": "23",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "23",
+        "better": "25",
+        "way": "15,18,35,10"
+    },
+    {
+        "worsen": "23",
+        "better": "26",
+        "way": "6,3,10,24"
+    },
+    {
+        "worsen": "23",
+        "better": "27",
+        "way": "10,29,39,35"
+    },
+    {
+        "worsen": "23",
+        "better": "28",
+        "way": "16,34,31,28"
+    },
+    {
+        "worsen": "23",
+        "better": "29",
+        "way": "25,10,24,31"
+    },
+    {
+        "worsen": "23",
+        "better": "30",
+        "way": "33,22,30,40"
+    },
+    {
+        "worsen": "23",
+        "better": "31",
+        "way": "10,1,34,29"
+    },
+    {
+        "worsen": "23",
+        "better": "32",
+        "way": "15,34,33"
+    },
+    {
+        "worsen": "23",
+        "better": "33",
+        "way": "32,28,2,24"
+    },
+    {
+        "worsen": "23",
+        "better": "34",
+        "way": "2,35,34,27"
+    },
+    {
+        "worsen": "23",
+        "better": "35",
+        "way": "15,10,2"
+    },
+    {
+        "worsen": "23",
+        "better": "36",
+        "way": "35,10,28,24"
+    },
+    {
+        "worsen": "23",
+        "better": "37",
+        "way": "35,18,10,13"
+    },
+    {
+        "worsen": "23",
+        "better": "38",
+        "way": "35,10,18"
+    },
+    {
+        "worsen": "23",
+        "better": "39",
+        "way": "28,35,10,23"
+    },
+    {
+        "worsen": "24",
+        "better": "1",
+        "way": "10,24,35"
+    },
+    {
+        "worsen": "24",
+        "better": "2",
+        "way": "10,35,5"
+    },
+    {
+        "worsen": "24",
+        "better": "3",
+        "way": "1,26"
+    },
+    {
+        "worsen": "24",
+        "better": "4",
+        "way": "26"
+    },
+    {
+        "worsen": "24",
+        "better": "5",
+        "way": "30,26"
+    },
+    {
+        "worsen": "24",
+        "better": "6",
+        "way": "30,16"
+    },
+    {
+        "worsen": "24",
+        "better": "7",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "8",
+        "way": "2,22"
+    },
+    {
+        "worsen": "24",
+        "better": "9",
+        "way": "26,32"
+    },
+    {
+        "worsen": "24",
+        "better": "10",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "11",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "12",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "13",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "14",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "15",
+        "way": "10"
+    },
+    {
+        "worsen": "24",
+        "better": "16",
+        "way": "10"
+    },
+    {
+        "worsen": "24",
+        "better": "17",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "18",
+        "way": "19"
+    },
+    {
+        "worsen": "24",
+        "better": "19",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "21",
+        "way": "10,19"
+    },
+    {
+        "worsen": "24",
+        "better": "22",
+        "way": "19,10"
+    },
+    {
+        "worsen": "24",
+        "better": "23",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "24",
+        "way": "+"
+    },
+    {
+        "worsen": "24",
+        "better": "25",
+        "way": "24,26,28,32"
+    },
+    {
+        "worsen": "24",
+        "better": "26",
+        "way": "24,28,35"
+    },
+    {
+        "worsen": "24",
+        "better": "27",
+        "way": "10,28,23"
+    },
+    {
+        "worsen": "24",
+        "better": "28",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "29",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "30",
+        "way": "22,10,1"
+    },
+    {
+        "worsen": "24",
+        "better": "31",
+        "way": "10,21,22"
+    },
+    {
+        "worsen": "24",
+        "better": "32",
+        "way": "32"
+    },
+    {
+        "worsen": "24",
+        "better": "33",
+        "way": "27,22"
+    },
+    {
+        "worsen": "24",
+        "better": "34",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "35",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "36",
+        "way": ""
+    },
+    {
+        "worsen": "24",
+        "better": "37",
+        "way": "35,33"
+    },
+    {
+        "worsen": "24",
+        "better": "38",
+        "way": "35"
+    },
+    {
+        "worsen": "24",
+        "better": "39",
+        "way": "13,23,15"
+    },
+    {
+        "worsen": "25",
+        "better": "1",
+        "way": "10,20,37,35"
+    },
+    {
+        "worsen": "25",
+        "better": "2",
+        "way": "10,20,26,5"
+    },
+    {
+        "worsen": "25",
+        "better": "3",
+        "way": "15,2,29"
+    },
+    {
+        "worsen": "25",
+        "better": "4",
+        "way": "30,24,14,5"
+    },
+    {
+        "worsen": "25",
+        "better": "5",
+        "way": "26,4,5,16"
+    },
+    {
+        "worsen": "25",
+        "better": "6",
+        "way": "10,35,17,4"
+    },
+    {
+        "worsen": "25",
+        "better": "7",
+        "way": "2,5,34,10"
+    },
+    {
+        "worsen": "25",
+        "better": "8",
+        "way": "35,16,32,18"
+    },
+    {
+        "worsen": "25",
+        "better": "9",
+        "way": ""
+    },
+    {
+        "worsen": "25",
+        "better": "10",
+        "way": "10,37,36,5"
+    },
+    {
+        "worsen": "25",
+        "better": "11",
+        "way": "37,36,4"
+    },
+    {
+        "worsen": "25",
+        "better": "12",
+        "way": "4,10,34,17"
+    },
+    {
+        "worsen": "25",
+        "better": "13",
+        "way": "35,3,22,5"
+    },
+    {
+        "worsen": "25",
+        "better": "14",
+        "way": "29,3,28,18"
+    },
+    {
+        "worsen": "25",
+        "better": "15",
+        "way": "20,10,28,18"
+    },
+    {
+        "worsen": "25",
+        "better": "16",
+        "way": "28,20,10,16"
+    },
+    {
+        "worsen": "25",
+        "better": "17",
+        "way": "35,29,21,18"
+    },
+    {
+        "worsen": "25",
+        "better": "18",
+        "way": "1,19,26,17"
+    },
+    {
+        "worsen": "25",
+        "better": "19",
+        "way": "35,35,19,18"
+    },
+    {
+        "worsen": "25",
+        "better": "20",
+        "way": "1"
+    },
+    {
+        "worsen": "25",
+        "better": "21",
+        "way": "35,20,10,6"
+    },
+    {
+        "worsen": "25",
+        "better": "22",
+        "way": "10,5,18,32"
+    },
+    {
+        "worsen": "25",
+        "better": "23",
+        "way": "35,18,10,39"
+    },
+    {
+        "worsen": "25",
+        "better": "24",
+        "way": "24,26,28,32"
+    },
+    {
+        "worsen": "25",
+        "better": "25",
+        "way": "+"
+    },
+    {
+        "worsen": "25",
+        "better": "26",
+        "way": "35,38,18,16"
+    },
+    {
+        "worsen": "25",
+        "better": "27",
+        "way": "10,30,4"
+    },
+    {
+        "worsen": "25",
+        "better": "28",
+        "way": "24,34,28,32"
+    },
+    {
+        "worsen": "25",
+        "better": "29",
+        "way": "24,26,28,18"
+    },
+    {
+        "worsen": "25",
+        "better": "30",
+        "way": "35,18,34"
+    },
+    {
+        "worsen": "25",
+        "better": "31",
+        "way": "35,22,18,39"
+    },
+    {
+        "worsen": "25",
+        "better": "32",
+        "way": "35,28,34,4"
+    },
+    {
+        "worsen": "25",
+        "better": "33",
+        "way": "4,28,10,34"
+    },
+    {
+        "worsen": "25",
+        "better": "34",
+        "way": "32,1,10"
+    },
+    {
+        "worsen": "25",
+        "better": "35",
+        "way": "35,28"
+    },
+    {
+        "worsen": "25",
+        "better": "36",
+        "way": "6,29"
+    },
+    {
+        "worsen": "25",
+        "better": "37",
+        "way": "18,28,32,10"
+    },
+    {
+        "worsen": "25",
+        "better": "38",
+        "way": "24,28,35,30"
+    },
+    {
+        "worsen": "25",
+        "better": "39",
+        "way": ""
+    },
+    {
+        "worsen": "26",
+        "better": "1",
+        "way": "35,6,18,31"
+    },
+    {
+        "worsen": "26",
+        "better": "2",
+        "way": "27,26,18,35"
+    },
+    {
+        "worsen": "26",
+        "better": "3",
+        "way": "39,14,35,18"
+    },
+    {
+        "worsen": "26",
+        "better": "4",
+        "way": ""
+    },
+    {
+        "worsen": "26",
+        "better": "5",
+        "way": "15,14,29"
+    },
+    {
+        "worsen": "26",
+        "better": "6",
+        "way": "2,18,40,4"
+    },
+    {
+        "worsen": "26",
+        "better": "7",
+        "way": "15,20,29"
+    },
+    {
+        "worsen": "26",
+        "better": "8",
+        "way": ""
+    },
+    {
+        "worsen": "26",
+        "better": "9",
+        "way": "35,29,34,28"
+    },
+    {
+        "worsen": "26",
+        "better": "10",
+        "way": "35,14,3"
+    },
+    {
+        "worsen": "26",
+        "better": "11",
+        "way": "10,36,14,3"
+    },
+    {
+        "worsen": "26",
+        "better": "12",
+        "way": "35,14"
+    },
+    {
+        "worsen": "26",
+        "better": "13",
+        "way": "15,2,17,40"
+    },
+    {
+        "worsen": "26",
+        "better": "14",
+        "way": "14,35,34,10"
+    },
+    {
+        "worsen": "26",
+        "better": "15",
+        "way": "3,35,10,40"
+    },
+    {
+        "worsen": "26",
+        "better": "16",
+        "way": "3,35,31"
+    },
+    {
+        "worsen": "26",
+        "better": "17",
+        "way": "3,17,39"
+    },
+    {
+        "worsen": "26",
+        "better": "18",
+        "way": ""
+    },
+    {
+        "worsen": "26",
+        "better": "19",
+        "way": "34,29,16,18"
+    },
+    {
+        "worsen": "26",
+        "better": "20",
+        "way": "3,35,31"
+    },
+    {
+        "worsen": "26",
+        "better": "21",
+        "way": "35"
+    },
+    {
+        "worsen": "26",
+        "better": "22",
+        "way": "7,18,25"
+    },
+    {
+        "worsen": "26",
+        "better": "23",
+        "way": "6,3,10,24"
+    },
+    {
+        "worsen": "26",
+        "better": "24",
+        "way": "24,28,35"
+    },
+    {
+        "worsen": "26",
+        "better": "25",
+        "way": "35,38,18,16"
+    },
+    {
+        "worsen": "26",
+        "better": "26",
+        "way": "+"
+    },
+    {
+        "worsen": "26",
+        "better": "27",
+        "way": "18,3,28,40"
+    },
+    {
+        "worsen": "26",
+        "better": "28",
+        "way": "13,2,28"
+    },
+    {
+        "worsen": "26",
+        "better": "29",
+        "way": "33,30"
+    },
+    {
+        "worsen": "26",
+        "better": "30",
+        "way": "35,33,29,31"
+    },
+    {
+        "worsen": "26",
+        "better": "31",
+        "way": "3,35,40,39"
+    },
+    {
+        "worsen": "26",
+        "better": "32",
+        "way": "29,1,35,27"
+    },
+    {
+        "worsen": "26",
+        "better": "33",
+        "way": "35,29,25,10"
+    },
+    {
+        "worsen": "26",
+        "better": "34",
+        "way": "2,32,10,25"
+    },
+    {
+        "worsen": "26",
+        "better": "35",
+        "way": "15,3,29"
+    },
+    {
+        "worsen": "26",
+        "better": "36",
+        "way": "3,13,27,10"
+    },
+    {
+        "worsen": "26",
+        "better": "37",
+        "way": "3,27,29,18"
+    },
+    {
+        "worsen": "26",
+        "better": "38",
+        "way": "8,35"
+    },
+    {
+        "worsen": "26",
+        "better": "39",
+        "way": "13,29,3,27"
+    },
+    {
+        "worsen": "27",
+        "better": "1",
+        "way": "3,8,10,40"
+    },
+    {
+        "worsen": "27",
+        "better": "2",
+        "way": "3,10,8,28"
+    },
+    {
+        "worsen": "27",
+        "better": "3",
+        "way": "15,9,14,4"
+    },
+    {
+        "worsen": "27",
+        "better": "4",
+        "way": "15,29,28,11"
+    },
+    {
+        "worsen": "27",
+        "better": "5",
+        "way": "17,10,14,16"
+    },
+    {
+        "worsen": "27",
+        "better": "6",
+        "way": "32,35,40,4"
+    },
+    {
+        "worsen": "27",
+        "better": "7",
+        "way": "3,10,14,24"
+    },
+    {
+        "worsen": "27",
+        "better": "8",
+        "way": "2,35,24"
+    },
+    {
+        "worsen": "27",
+        "better": "9",
+        "way": "21,35,11,28"
+    },
+    {
+        "worsen": "27",
+        "better": "10",
+        "way": "8,28,10,3"
+    },
+    {
+        "worsen": "27",
+        "better": "11",
+        "way": "10,24,35,19"
+    },
+    {
+        "worsen": "27",
+        "better": "12",
+        "way": "35,1,16,11"
+    },
+    {
+        "worsen": "27",
+        "better": "13",
+        "way": ""
+    },
+    {
+        "worsen": "27",
+        "better": "14",
+        "way": "11,28"
+    },
+    {
+        "worsen": "27",
+        "better": "15",
+        "way": "2,35,3,25"
+    },
+    {
+        "worsen": "27",
+        "better": "16",
+        "way": "34,27,6,40"
+    },
+    {
+        "worsen": "27",
+        "better": "17",
+        "way": "3,35,10"
+    },
+    {
+        "worsen": "27",
+        "better": "18",
+        "way": "11,32,13"
+    },
+    {
+        "worsen": "27",
+        "better": "19",
+        "way": "21,11,27,19"
+    },
+    {
+        "worsen": "27",
+        "better": "20",
+        "way": "36,23"
+    },
+    {
+        "worsen": "27",
+        "better": "21",
+        "way": "21,11,26,31"
+    },
+    {
+        "worsen": "27",
+        "better": "22",
+        "way": "10,11,35"
+    },
+    {
+        "worsen": "27",
+        "better": "23",
+        "way": "10,35,29,39"
+    },
+    {
+        "worsen": "27",
+        "better": "24",
+        "way": "10,28"
+    },
+    {
+        "worsen": "27",
+        "better": "25",
+        "way": "10,30,4"
+    },
+    {
+        "worsen": "27",
+        "better": "26",
+        "way": "21,28,40,3"
+    },
+    {
+        "worsen": "27",
+        "better": "27",
+        "way": "+"
+    },
+    {
+        "worsen": "27",
+        "better": "28",
+        "way": "32,3,11,23"
+    },
+    {
+        "worsen": "27",
+        "better": "29",
+        "way": "11,32,1"
+    },
+    {
+        "worsen": "27",
+        "better": "30",
+        "way": "27,35,2,40"
+    },
+    {
+        "worsen": "27",
+        "better": "31",
+        "way": "35,2,40,26"
+    },
+    {
+        "worsen": "27",
+        "better": "32",
+        "way": ""
+    },
+    {
+        "worsen": "27",
+        "better": "33",
+        "way": "27,17,40"
+    },
+    {
+        "worsen": "27",
+        "better": "34",
+        "way": "1,11"
+    },
+    {
+        "worsen": "27",
+        "better": "35",
+        "way": "13,35,8,24"
+    },
+    {
+        "worsen": "27",
+        "better": "36",
+        "way": "13,35,1"
+    },
+    {
+        "worsen": "27",
+        "better": "37",
+        "way": "27,40,28"
+    },
+    {
+        "worsen": "27",
+        "better": "38",
+        "way": "11,13,27"
+    },
+    {
+        "worsen": "27",
+        "better": "39",
+        "way": "1,35,29,38"
+    },
+    {
+        "worsen": "28",
+        "better": "1",
+        "way": "32,35,26,28"
+    },
+    {
+        "worsen": "28",
+        "better": "2",
+        "way": "28,35,25,26"
+    },
+    {
+        "worsen": "28",
+        "better": "3",
+        "way": "28,26,5,16"
+    },
+    {
+        "worsen": "28",
+        "better": "4",
+        "way": "32,28,3,16"
+    },
+    {
+        "worsen": "28",
+        "better": "5",
+        "way": "26,28,32,3"
+    },
+    {
+        "worsen": "28",
+        "better": "6",
+        "way": "26,28,3,3"
+    },
+    {
+        "worsen": "28",
+        "better": "7",
+        "way": "32,13,6"
+    },
+    {
+        "worsen": "28",
+        "better": "8",
+        "way": ""
+    },
+    {
+        "worsen": "28",
+        "better": "9",
+        "way": "28,13,32,24"
+    },
+    {
+        "worsen": "28",
+        "better": "10",
+        "way": "32,2"
+    },
+    {
+        "worsen": "28",
+        "better": "11",
+        "way": "6,28,32"
+    },
+    {
+        "worsen": "28",
+        "better": "12",
+        "way": "6,28,32"
+    },
+    {
+        "worsen": "28",
+        "better": "13",
+        "way": "32,35,13"
+    },
+    {
+        "worsen": "28",
+        "better": "14",
+        "way": "28,6,32"
+    },
+    {
+        "worsen": "28",
+        "better": "15",
+        "way": "28,6,32"
+    },
+    {
+        "worsen": "28",
+        "better": "16",
+        "way": "10,26,24"
+    },
+    {
+        "worsen": "28",
+        "better": "17",
+        "way": "6,19,28,24"
+    },
+    {
+        "worsen": "28",
+        "better": "18",
+        "way": "6,1,32"
+    },
+    {
+        "worsen": "28",
+        "better": "19",
+        "way": "3,6,32"
+    },
+    {
+        "worsen": "28",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "28",
+        "better": "21",
+        "way": "3,6,32"
+    },
+    {
+        "worsen": "28",
+        "better": "22",
+        "way": "26,32,27"
+    },
+    {
+        "worsen": "28",
+        "better": "23",
+        "way": "10,16,31,28"
+    },
+    {
+        "worsen": "28",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "28",
+        "better": "25",
+        "way": "24,34,28,32"
+    },
+    {
+        "worsen": "28",
+        "better": "26",
+        "way": "2,6,32"
+    },
+    {
+        "worsen": "28",
+        "better": "27",
+        "way": "5,11,1,23"
+    },
+    {
+        "worsen": "28",
+        "better": "28",
+        "way": "+"
+    },
+    {
+        "worsen": "28",
+        "better": "29",
+        "way": ""
+    },
+    {
+        "worsen": "28",
+        "better": "30",
+        "way": "28,24,22,26"
+    },
+    {
+        "worsen": "28",
+        "better": "31",
+        "way": "3,33,39,10"
+    },
+    {
+        "worsen": "28",
+        "better": "32",
+        "way": "6,35,25,18"
+    },
+    {
+        "worsen": "28",
+        "better": "33",
+        "way": "1,13,17,34"
+    },
+    {
+        "worsen": "28",
+        "better": "34",
+        "way": "1,32,13,11"
+    },
+    {
+        "worsen": "28",
+        "better": "35",
+        "way": "13,35,2"
+    },
+    {
+        "worsen": "28",
+        "better": "36",
+        "way": "27,35,10,34"
+    },
+    {
+        "worsen": "28",
+        "better": "37",
+        "way": "26,24,32,28"
+    },
+    {
+        "worsen": "28",
+        "better": "38",
+        "way": "28,2,10,34"
+    },
+    {
+        "worsen": "28",
+        "better": "39",
+        "way": "10,34,28,32"
+    },
+    {
+        "worsen": "29",
+        "better": "1",
+        "way": "28,32,13,18"
+    },
+    {
+        "worsen": "29",
+        "better": "2",
+        "way": "28,35,27,9"
+    },
+    {
+        "worsen": "29",
+        "better": "3",
+        "way": "10,28,29,37"
+    },
+    {
+        "worsen": "29",
+        "better": "4",
+        "way": "2,32,10"
+    },
+    {
+        "worsen": "29",
+        "better": "5",
+        "way": "28,33,29,32"
+    },
+    {
+        "worsen": "29",
+        "better": "6",
+        "way": "2,29,18,36"
+    },
+    {
+        "worsen": "29",
+        "better": "7",
+        "way": "32,23,2"
+    },
+    {
+        "worsen": "29",
+        "better": "8",
+        "way": "25,10,35"
+    },
+    {
+        "worsen": "29",
+        "better": "9",
+        "way": "10,28,32"
+    },
+    {
+        "worsen": "29",
+        "better": "10",
+        "way": "28,19,34,36"
+    },
+    {
+        "worsen": "29",
+        "better": "11",
+        "way": "3,35"
+    },
+    {
+        "worsen": "29",
+        "better": "12",
+        "way": "32,30,40"
+    },
+    {
+        "worsen": "29",
+        "better": "13",
+        "way": "30,18"
+    },
+    {
+        "worsen": "29",
+        "better": "14",
+        "way": "3,27"
+    },
+    {
+        "worsen": "29",
+        "better": "15",
+        "way": "3,27,40"
+    },
+    {
+        "worsen": "29",
+        "better": "16",
+        "way": ""
+    },
+    {
+        "worsen": "29",
+        "better": "17",
+        "way": "19,26"
+    },
+    {
+        "worsen": "29",
+        "better": "18",
+        "way": "3,32"
+    },
+    {
+        "worsen": "29",
+        "better": "19",
+        "way": "32,2"
+    },
+    {
+        "worsen": "29",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "29",
+        "better": "21",
+        "way": "32,2"
+    },
+    {
+        "worsen": "29",
+        "better": "22",
+        "way": "13,32,2"
+    },
+    {
+        "worsen": "29",
+        "better": "23",
+        "way": "35,31,10,24"
+    },
+    {
+        "worsen": "29",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "29",
+        "better": "25",
+        "way": "32,26,28,18"
+    },
+    {
+        "worsen": "29",
+        "better": "26",
+        "way": "32,30"
+    },
+    {
+        "worsen": "29",
+        "better": "27",
+        "way": "11,32,1"
+    },
+    {
+        "worsen": "29",
+        "better": "28",
+        "way": ""
+    },
+    {
+        "worsen": "29",
+        "better": "29",
+        "way": "+"
+    },
+    {
+        "worsen": "29",
+        "better": "30",
+        "way": "26,28,10,36"
+    },
+    {
+        "worsen": "29",
+        "better": "31",
+        "way": "4,17,34,26"
+    },
+    {
+        "worsen": "29",
+        "better": "32",
+        "way": ""
+    },
+    {
+        "worsen": "29",
+        "better": "33",
+        "way": "1,32,355,23"
+    },
+    {
+        "worsen": "29",
+        "better": "34",
+        "way": "25,10"
+    },
+    {
+        "worsen": "29",
+        "better": "35",
+        "way": ""
+    },
+    {
+        "worsen": "29",
+        "better": "36",
+        "way": "26,2,18"
+    },
+    {
+        "worsen": "29",
+        "better": "37",
+        "way": ""
+    },
+    {
+        "worsen": "29",
+        "better": "38",
+        "way": "26,28,18,23"
+    },
+    {
+        "worsen": "29",
+        "better": "39",
+        "way": "10,18,32,39"
+    },
+    {
+        "worsen": "30",
+        "better": "1",
+        "way": "22,21,27,39"
+    },
+    {
+        "worsen": "30",
+        "better": "2",
+        "way": "2,22,13,24"
+    },
+    {
+        "worsen": "30",
+        "better": "3",
+        "way": "17,1,39,4"
+    },
+    {
+        "worsen": "30",
+        "better": "4",
+        "way": "1,18"
+    },
+    {
+        "worsen": "30",
+        "better": "5",
+        "way": "22,1,33,28"
+    },
+    {
+        "worsen": "30",
+        "better": "6",
+        "way": "27,2,39,35"
+    },
+    {
+        "worsen": "30",
+        "better": "7",
+        "way": "22,23,37,35"
+    },
+    {
+        "worsen": "30",
+        "better": "8",
+        "way": "34,39,19,27"
+    },
+    {
+        "worsen": "30",
+        "better": "9",
+        "way": "34,39,19,27"
+    },
+    {
+        "worsen": "30",
+        "better": "10",
+        "way": "13,35,39,18"
+    },
+    {
+        "worsen": "30",
+        "better": "11",
+        "way": "22,2,37"
+    },
+    {
+        "worsen": "30",
+        "better": "12",
+        "way": "22,1,3,35"
+    },
+    {
+        "worsen": "30",
+        "better": "13",
+        "way": "35,24,30,18"
+    },
+    {
+        "worsen": "30",
+        "better": "14",
+        "way": "18,35,37,1"
+    },
+    {
+        "worsen": "30",
+        "better": "15",
+        "way": "22,15,33,28"
+    },
+    {
+        "worsen": "30",
+        "better": "16",
+        "way": "17,1,40,33"
+    },
+    {
+        "worsen": "30",
+        "better": "17",
+        "way": "22,33,35,2"
+    },
+    {
+        "worsen": "30",
+        "better": "18",
+        "way": "1,19,32,13"
+    },
+    {
+        "worsen": "30",
+        "better": "19",
+        "way": "1,24,6,27"
+    },
+    {
+        "worsen": "30",
+        "better": "20",
+        "way": "10,2,22,37"
+    },
+    {
+        "worsen": "30",
+        "better": "21",
+        "way": "19,22,31,2"
+    },
+    {
+        "worsen": "30",
+        "better": "22",
+        "way": "21,22,35,2"
+    },
+    {
+        "worsen": "30",
+        "better": "23",
+        "way": "33,22,19,40"
+    },
+    {
+        "worsen": "30",
+        "better": "24",
+        "way": "22,10,2"
+    },
+    {
+        "worsen": "30",
+        "better": "25",
+        "way": "35,18,34"
+    },
+    {
+        "worsen": "30",
+        "better": "26",
+        "way": "35,33,29,31"
+    },
+    {
+        "worsen": "30",
+        "better": "27",
+        "way": "27,24,2,40"
+    },
+    {
+        "worsen": "30",
+        "better": "28",
+        "way": "28,33,23,26"
+    },
+    {
+        "worsen": "30",
+        "better": "29",
+        "way": "26,28,10,18"
+    },
+    {
+        "worsen": "30",
+        "better": "30",
+        "way": "+"
+    },
+    {
+        "worsen": "30",
+        "better": "31",
+        "way": ""
+    },
+    {
+        "worsen": "30",
+        "better": "32",
+        "way": "24,35,2"
+    },
+    {
+        "worsen": "30",
+        "better": "33",
+        "way": "2,25,28,39"
+    },
+    {
+        "worsen": "30",
+        "better": "34",
+        "way": "35,10,2"
+    },
+    {
+        "worsen": "30",
+        "better": "35",
+        "way": "35,11,22,31"
+    },
+    {
+        "worsen": "30",
+        "better": "36",
+        "way": "22,19,29,40"
+    },
+    {
+        "worsen": "30",
+        "better": "37",
+        "way": "22,19,29,40"
+    },
+    {
+        "worsen": "30",
+        "better": "38",
+        "way": "33,3,34"
+    },
+    {
+        "worsen": "30",
+        "better": "39",
+        "way": "22,3.5,13,24"
+    },
+    {
+        "worsen": "31",
+        "better": "1",
+        "way": "19,22,15,39"
+    },
+    {
+        "worsen": "31",
+        "better": "2",
+        "way": "35,22,1,39"
+    },
+    {
+        "worsen": "31",
+        "better": "3",
+        "way": "17,15,16,22"
+    },
+    {
+        "worsen": "31",
+        "better": "4",
+        "way": ""
+    },
+    {
+        "worsen": "31",
+        "better": "5",
+        "way": "17,2,18,39"
+    },
+    {
+        "worsen": "31",
+        "better": "6",
+        "way": "22,1,40"
+    },
+    {
+        "worsen": "31",
+        "better": "7",
+        "way": "17,2,40"
+    },
+    {
+        "worsen": "31",
+        "better": "8",
+        "way": "30,18,35,4"
+    },
+    {
+        "worsen": "31",
+        "better": "9",
+        "way": "35,28,3,23"
+    },
+    {
+        "worsen": "31",
+        "better": "10",
+        "way": "35,28,1,40"
+    },
+    {
+        "worsen": "31",
+        "better": "11",
+        "way": "2,33,27,18"
+    },
+    {
+        "worsen": "31",
+        "better": "12",
+        "way": "35,1"
+    },
+    {
+        "worsen": "31",
+        "better": "13",
+        "way": "35,40,27,39"
+    },
+    {
+        "worsen": "31",
+        "better": "14",
+        "way": "15,35,22,2"
+    },
+    {
+        "worsen": "31",
+        "better": "15",
+        "way": "15,22,33,31"
+    },
+    {
+        "worsen": "31",
+        "better": "16",
+        "way": "21,39,16,22"
+    },
+    {
+        "worsen": "31",
+        "better": "17",
+        "way": "22,35,2,24"
+    },
+    {
+        "worsen": "31",
+        "better": "18",
+        "way": "19,24,39,32"
+    },
+    {
+        "worsen": "31",
+        "better": "19",
+        "way": "2,35,6"
+    },
+    {
+        "worsen": "31",
+        "better": "20",
+        "way": "19,22,18"
+    },
+    {
+        "worsen": "31",
+        "better": "21",
+        "way": "2,35,18"
+    },
+    {
+        "worsen": "31",
+        "better": "22",
+        "way": "21,35,2,22"
+    },
+    {
+        "worsen": "31",
+        "better": "23",
+        "way": "10,1,34"
+    },
+    {
+        "worsen": "31",
+        "better": "24",
+        "way": "10,21,29"
+    },
+    {
+        "worsen": "31",
+        "better": "25",
+        "way": "1,22"
+    },
+    {
+        "worsen": "31",
+        "better": "26",
+        "way": "3,24,39,1"
+    },
+    {
+        "worsen": "31",
+        "better": "27",
+        "way": "24,2,40,39"
+    },
+    {
+        "worsen": "31",
+        "better": "28",
+        "way": "3,33,26"
+    },
+    {
+        "worsen": "31",
+        "better": "29",
+        "way": "4,17,34,26"
+    },
+    {
+        "worsen": "31",
+        "better": "30",
+        "way": ""
+    },
+    {
+        "worsen": "31",
+        "better": "31",
+        "way": "+"
+    },
+    {
+        "worsen": "31",
+        "better": "32",
+        "way": ""
+    },
+    {
+        "worsen": "31",
+        "better": "33",
+        "way": ""
+    },
+    {
+        "worsen": "31",
+        "better": "34",
+        "way": ""
+    },
+    {
+        "worsen": "31",
+        "better": "35",
+        "way": ""
+    },
+    {
+        "worsen": "31",
+        "better": "36",
+        "way": "19,1,31"
+    },
+    {
+        "worsen": "31",
+        "better": "37",
+        "way": "2,21,27,1"
+    },
+    {
+        "worsen": "31",
+        "better": "38",
+        "way": "2"
+    },
+    {
+        "worsen": "31",
+        "better": "39",
+        "way": "22,35,18,39"
+    },
+    {
+        "worsen": "32",
+        "better": "1",
+        "way": "28,29,15,16"
+    },
+    {
+        "worsen": "32",
+        "better": "2",
+        "way": "1,27,36,13"
+    },
+    {
+        "worsen": "32",
+        "better": "3",
+        "way": "1,29,13,17"
+    },
+    {
+        "worsen": "32",
+        "better": "4",
+        "way": "15,17,27"
+    },
+    {
+        "worsen": "32",
+        "better": "5",
+        "way": "13,1.26.12"
+    },
+    {
+        "worsen": "32",
+        "better": "6",
+        "way": "16,40"
+    },
+    {
+        "worsen": "32",
+        "better": "7",
+        "way": "13,29,1,40"
+    },
+    {
+        "worsen": "32",
+        "better": "8",
+        "way": "35"
+    },
+    {
+        "worsen": "32",
+        "better": "9",
+        "way": "35,13,8,1"
+    },
+    {
+        "worsen": "32",
+        "better": "10",
+        "way": "35,12"
+    },
+    {
+        "worsen": "32",
+        "better": "11",
+        "way": "35,19,1,37"
+    },
+    {
+        "worsen": "32",
+        "better": "12",
+        "way": "1,28,13,27"
+    },
+    {
+        "worsen": "32",
+        "better": "13",
+        "way": "11,13,1"
+    },
+    {
+        "worsen": "32",
+        "better": "14",
+        "way": "1,3,10,32"
+    },
+    {
+        "worsen": "32",
+        "better": "15",
+        "way": "27,1,4"
+    },
+    {
+        "worsen": "32",
+        "better": "16",
+        "way": "35,16"
+    },
+    {
+        "worsen": "32",
+        "better": "17",
+        "way": "27,26,18"
+    },
+    {
+        "worsen": "32",
+        "better": "18",
+        "way": "28,24,27,1"
+    },
+    {
+        "worsen": "32",
+        "better": "19",
+        "way": "28,26,27,1"
+    },
+    {
+        "worsen": "32",
+        "better": "20",
+        "way": "1,4"
+    },
+    {
+        "worsen": "32",
+        "better": "21",
+        "way": "27,1,12,24"
+    },
+    {
+        "worsen": "32",
+        "better": "22",
+        "way": "19,35"
+    },
+    {
+        "worsen": "32",
+        "better": "23",
+        "way": "15,34,33"
+    },
+    {
+        "worsen": "32",
+        "better": "24",
+        "way": "32,24,18,16"
+    },
+    {
+        "worsen": "32",
+        "better": "25",
+        "way": "35,28,34,4"
+    },
+    {
+        "worsen": "32",
+        "better": "26",
+        "way": "35,23,1,24"
+    },
+    {
+        "worsen": "32",
+        "better": "27",
+        "way": ""
+    },
+    {
+        "worsen": "32",
+        "better": "28",
+        "way": "1,35,12,18"
+    },
+    {
+        "worsen": "32",
+        "better": "29",
+        "way": ""
+    },
+    {
+        "worsen": "32",
+        "better": "30",
+        "way": "24,2"
+    },
+    {
+        "worsen": "32",
+        "better": "31",
+        "way": ""
+    },
+    {
+        "worsen": "32",
+        "better": "32",
+        "way": "+"
+    },
+    {
+        "worsen": "32",
+        "better": "33",
+        "way": "2,5,13,16"
+    },
+    {
+        "worsen": "32",
+        "better": "34",
+        "way": "35,1,11,9"
+    },
+    {
+        "worsen": "32",
+        "better": "35",
+        "way": "2,13,15"
+    },
+    {
+        "worsen": "32",
+        "better": "36",
+        "way": "27,26,1"
+    },
+    {
+        "worsen": "32",
+        "better": "37",
+        "way": "6,28,11,1"
+    },
+    {
+        "worsen": "32",
+        "better": "38",
+        "way": "8,28,1"
+    },
+    {
+        "worsen": "32",
+        "better": "39",
+        "way": "35,1,10,28"
+    },
+    {
+        "worsen": "33",
+        "better": "1",
+        "way": "25,2,13,15"
+    },
+    {
+        "worsen": "33",
+        "better": "2",
+        "way": "6,13,1,25"
+    },
+    {
+        "worsen": "33",
+        "better": "3",
+        "way": "1,17,13,12"
+    },
+    {
+        "worsen": "33",
+        "better": "4",
+        "way": ""
+    },
+    {
+        "worsen": "33",
+        "better": "5",
+        "way": "1,17,13,16"
+    },
+    {
+        "worsen": "33",
+        "better": "6",
+        "way": "18,16,15,39"
+    },
+    {
+        "worsen": "33",
+        "better": "7",
+        "way": "1,16,35,15"
+    },
+    {
+        "worsen": "33",
+        "better": "8",
+        "way": "4,18,39,31"
+    },
+    {
+        "worsen": "33",
+        "better": "9",
+        "way": "18,13,34"
+    },
+    {
+        "worsen": "33",
+        "better": "10",
+        "way": "28,13,35"
+    },
+    {
+        "worsen": "33",
+        "better": "11",
+        "way": "2,32,12"
+    },
+    {
+        "worsen": "33",
+        "better": "12",
+        "way": "15,34,29,28"
+    },
+    {
+        "worsen": "33",
+        "better": "13",
+        "way": "32,35,30"
+    },
+    {
+        "worsen": "33",
+        "better": "14",
+        "way": "32,40,3,28"
+    },
+    {
+        "worsen": "33",
+        "better": "15",
+        "way": "29,3,8,25"
+    },
+    {
+        "worsen": "33",
+        "better": "16",
+        "way": "1,16,25"
+    },
+    {
+        "worsen": "33",
+        "better": "17",
+        "way": "26,27,13"
+    },
+    {
+        "worsen": "33",
+        "better": "18",
+        "way": "13,17,1,27"
+    },
+    {
+        "worsen": "33",
+        "better": "19",
+        "way": "1,13,24"
+    },
+    {
+        "worsen": "33",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "33",
+        "better": "21",
+        "way": "35,34,2,10"
+    },
+    {
+        "worsen": "33",
+        "better": "22",
+        "way": "2,19,13"
+    },
+    {
+        "worsen": "33",
+        "better": "23",
+        "way": "28,32,2,24"
+    },
+    {
+        "worsen": "33",
+        "better": "24",
+        "way": "4,10,27,22"
+    },
+    {
+        "worsen": "33",
+        "better": "25",
+        "way": "4,28,10,34"
+    },
+    {
+        "worsen": "33",
+        "better": "26",
+        "way": "12,35"
+    },
+    {
+        "worsen": "33",
+        "better": "27",
+        "way": "17,27,8,40"
+    },
+    {
+        "worsen": "33",
+        "better": "28",
+        "way": "25,13,2,34"
+    },
+    {
+        "worsen": "33",
+        "better": "29",
+        "way": "1,32,35,23"
+    },
+    {
+        "worsen": "33",
+        "better": "30",
+        "way": "2,25,28,39"
+    },
+    {
+        "worsen": "33",
+        "better": "31",
+        "way": ""
+    },
+    {
+        "worsen": "33",
+        "better": "32",
+        "way": "2,5,12"
+    },
+    {
+        "worsen": "33",
+        "better": "33",
+        "way": "+"
+    },
+    {
+        "worsen": "33",
+        "better": "34",
+        "way": "12,26,1,32"
+    },
+    {
+        "worsen": "33",
+        "better": "35",
+        "way": "15,34,1,16"
+    },
+    {
+        "worsen": "33",
+        "better": "36",
+        "way": "32,26,12,17"
+    },
+    {
+        "worsen": "33",
+        "better": "37",
+        "way": ""
+    },
+    {
+        "worsen": "33",
+        "better": "38",
+        "way": "1,34,12,3"
+    },
+    {
+        "worsen": "33",
+        "better": "39",
+        "way": "15,1,28"
+    },
+    {
+        "worsen": "34",
+        "better": "1",
+        "way": "2,27,35,11"
+    },
+    {
+        "worsen": "34",
+        "better": "2",
+        "way": "2,27,35,11"
+    },
+    {
+        "worsen": "34",
+        "better": "3",
+        "way": "1,28,10,25"
+    },
+    {
+        "worsen": "34",
+        "better": "4",
+        "way": "3,18,31"
+    },
+    {
+        "worsen": "34",
+        "better": "5",
+        "way": "15,13,32"
+    },
+    {
+        "worsen": "34",
+        "better": "6",
+        "way": "16,25"
+    },
+    {
+        "worsen": "34",
+        "better": "7",
+        "way": "25,2,35,11"
+    },
+    {
+        "worsen": "34",
+        "better": "8",
+        "way": "1"
+    },
+    {
+        "worsen": "34",
+        "better": "9",
+        "way": "34,9"
+    },
+    {
+        "worsen": "34",
+        "better": "10",
+        "way": "1,11,10"
+    },
+    {
+        "worsen": "34",
+        "better": "11",
+        "way": "13"
+    },
+    {
+        "worsen": "34",
+        "better": "12",
+        "way": "1,13,2,4"
+    },
+    {
+        "worsen": "34",
+        "better": "13",
+        "way": "2,35"
+    },
+    {
+        "worsen": "34",
+        "better": "14",
+        "way": "11,1,2,9"
+    },
+    {
+        "worsen": "34",
+        "better": "15",
+        "way": "11,29,28,27"
+    },
+    {
+        "worsen": "34",
+        "better": "16",
+        "way": "1"
+    },
+    {
+        "worsen": "34",
+        "better": "17",
+        "way": "4,10"
+    },
+    {
+        "worsen": "34",
+        "better": "18",
+        "way": "15,1,13"
+    },
+    {
+        "worsen": "34",
+        "better": "19",
+        "way": "15,1,28,16"
+    },
+    {
+        "worsen": "34",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "34",
+        "better": "21",
+        "way": "15,10,32,2"
+    },
+    {
+        "worsen": "34",
+        "better": "22",
+        "way": "15,1,32,19"
+    },
+    {
+        "worsen": "34",
+        "better": "23",
+        "way": "2,35,34,27"
+    },
+    {
+        "worsen": "34",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "34",
+        "better": "25",
+        "way": "32,1,10,25"
+    },
+    {
+        "worsen": "34",
+        "better": "26",
+        "way": "2,28,10,25"
+    },
+    {
+        "worsen": "34",
+        "better": "27",
+        "way": "11,10,1,16"
+    },
+    {
+        "worsen": "34",
+        "better": "28",
+        "way": "10,2,13"
+    },
+    {
+        "worsen": "34",
+        "better": "29",
+        "way": "25,10"
+    },
+    {
+        "worsen": "34",
+        "better": "30",
+        "way": "35,10,2,16"
+    },
+    {
+        "worsen": "34",
+        "better": "31",
+        "way": ""
+    },
+    {
+        "worsen": "34",
+        "better": "32",
+        "way": "1,35,11,10"
+    },
+    {
+        "worsen": "34",
+        "better": "33",
+        "way": "1,12,26,15"
+    },
+    {
+        "worsen": "34",
+        "better": "34",
+        "way": "+"
+    },
+    {
+        "worsen": "34",
+        "better": "35",
+        "way": "7,1,4,16"
+    },
+    {
+        "worsen": "34",
+        "better": "36",
+        "way": "35,1,13,11"
+    },
+    {
+        "worsen": "34",
+        "better": "37",
+        "way": ""
+    },
+    {
+        "worsen": "34",
+        "better": "38",
+        "way": "34,35,7,13"
+    },
+    {
+        "worsen": "34",
+        "better": "39",
+        "way": "1,32,10"
+    },
+    {
+        "worsen": "35",
+        "better": "1",
+        "way": "1,6,15,8"
+    },
+    {
+        "worsen": "35",
+        "better": "2",
+        "way": "19,15,29,16"
+    },
+    {
+        "worsen": "35",
+        "better": "3",
+        "way": "35,1,29,2"
+    },
+    {
+        "worsen": "35",
+        "better": "4",
+        "way": "1,35,16"
+    },
+    {
+        "worsen": "35",
+        "better": "5",
+        "way": "35,30,29,7"
+    },
+    {
+        "worsen": "35",
+        "better": "6",
+        "way": "15,16"
+    },
+    {
+        "worsen": "35",
+        "better": "7",
+        "way": "15,35,29"
+    },
+    {
+        "worsen": "35",
+        "better": "8",
+        "way": ""
+    },
+    {
+        "worsen": "35",
+        "better": "9",
+        "way": "35,10,14"
+    },
+    {
+        "worsen": "35",
+        "better": "10",
+        "way": "15,17,20"
+    },
+    {
+        "worsen": "35",
+        "better": "11",
+        "way": "35,16"
+    },
+    {
+        "worsen": "35",
+        "better": "12",
+        "way": "15,37,1,8"
+    },
+    {
+        "worsen": "35",
+        "better": "13",
+        "way": "35,30,14"
+    },
+    {
+        "worsen": "35",
+        "better": "14",
+        "way": "35,3,32,6"
+    },
+    {
+        "worsen": "35",
+        "better": "15",
+        "way": "13,1,35"
+    },
+    {
+        "worsen": "35",
+        "better": "16",
+        "way": "2,16"
+    },
+    {
+        "worsen": "35",
+        "better": "17",
+        "way": "27,2,3,35"
+    },
+    {
+        "worsen": "35",
+        "better": "18",
+        "way": "6,22,26,1"
+    },
+    {
+        "worsen": "35",
+        "better": "19",
+        "way": "19,35,29,13"
+    },
+    {
+        "worsen": "35",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "35",
+        "better": "21",
+        "way": "19,1,29"
+    },
+    {
+        "worsen": "35",
+        "better": "22",
+        "way": "18,15,1"
+    },
+    {
+        "worsen": "35",
+        "better": "23",
+        "way": "15,10,2,13"
+    },
+    {
+        "worsen": "35",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "35",
+        "better": "25",
+        "way": "35,28"
+    },
+    {
+        "worsen": "35",
+        "better": "26",
+        "way": "3,35,15"
+    },
+    {
+        "worsen": "35",
+        "better": "27",
+        "way": "35,13,8,24"
+    },
+    {
+        "worsen": "35",
+        "better": "28",
+        "way": "35,5,1,10"
+    },
+    {
+        "worsen": "35",
+        "better": "29",
+        "way": ""
+    },
+    {
+        "worsen": "35",
+        "better": "30",
+        "way": "35,11,32,31"
+    },
+    {
+        "worsen": "35",
+        "better": "31",
+        "way": ""
+    },
+    {
+        "worsen": "35",
+        "better": "32",
+        "way": "1,13,31"
+    },
+    {
+        "worsen": "35",
+        "better": "33",
+        "way": "15,34,1,16"
+    },
+    {
+        "worsen": "35",
+        "better": "34",
+        "way": "1,16,7,4"
+    },
+    {
+        "worsen": "35",
+        "better": "35",
+        "way": "+"
+    },
+    {
+        "worsen": "35",
+        "better": "36",
+        "way": "15,29,37,28"
+    },
+    {
+        "worsen": "35",
+        "better": "37",
+        "way": "1"
+    },
+    {
+        "worsen": "35",
+        "better": "38",
+        "way": "27,34,35"
+    },
+    {
+        "worsen": "35",
+        "better": "39",
+        "way": "35,28,6,37"
+    },
+    {
+        "worsen": "36",
+        "better": "1",
+        "way": "26,30,34,36"
+    },
+    {
+        "worsen": "36",
+        "better": "2",
+        "way": "2,26,35,39"
+    },
+    {
+        "worsen": "36",
+        "better": "3",
+        "way": "1,19,26,24"
+    },
+    {
+        "worsen": "36",
+        "better": "4",
+        "way": "26"
+    },
+    {
+        "worsen": "36",
+        "better": "5",
+        "way": "14,1,13,16"
+    },
+    {
+        "worsen": "36",
+        "better": "6",
+        "way": "6,36"
+    },
+    {
+        "worsen": "36",
+        "better": "7",
+        "way": "34,26,6"
+    },
+    {
+        "worsen": "36",
+        "better": "8",
+        "way": "1,16"
+    },
+    {
+        "worsen": "36",
+        "better": "9",
+        "way": "34,10,28"
+    },
+    {
+        "worsen": "36",
+        "better": "10",
+        "way": "26,16"
+    },
+    {
+        "worsen": "36",
+        "better": "11",
+        "way": "19,1,35"
+    },
+    {
+        "worsen": "36",
+        "better": "12",
+        "way": "29,13,28,15"
+    },
+    {
+        "worsen": "36",
+        "better": "13",
+        "way": "2,22,17,19"
+    },
+    {
+        "worsen": "36",
+        "better": "14",
+        "way": "2,13,28"
+    },
+    {
+        "worsen": "36",
+        "better": "15",
+        "way": "10,4,28,15"
+    },
+    {
+        "worsen": "36",
+        "better": "16",
+        "way": ""
+    },
+    {
+        "worsen": "36",
+        "better": "17",
+        "way": "2,17,13"
+    },
+    {
+        "worsen": "36",
+        "better": "18",
+        "way": "24,17,13"
+    },
+    {
+        "worsen": "36",
+        "better": "19",
+        "way": "27,2,29,28"
+    },
+    {
+        "worsen": "36",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "36",
+        "better": "21",
+        "way": "20,19,30,34"
+    },
+    {
+        "worsen": "36",
+        "better": "22",
+        "way": "10,35,13,2"
+    },
+    {
+        "worsen": "36",
+        "better": "23",
+        "way": "35,10,28,29"
+    },
+    {
+        "worsen": "36",
+        "better": "24",
+        "way": ""
+    },
+    {
+        "worsen": "36",
+        "better": "25",
+        "way": "6,29"
+    },
+    {
+        "worsen": "36",
+        "better": "26",
+        "way": "13,3,27,10"
+    },
+    {
+        "worsen": "36",
+        "better": "27",
+        "way": "13,35,1"
+    },
+    {
+        "worsen": "36",
+        "better": "28",
+        "way": "2,26,10,34"
+    },
+    {
+        "worsen": "36",
+        "better": "29",
+        "way": "26,24,32"
+    },
+    {
+        "worsen": "36",
+        "better": "30",
+        "way": "22,19,29,40"
+    },
+    {
+        "worsen": "36",
+        "better": "31",
+        "way": "19,1"
+    },
+    {
+        "worsen": "36",
+        "better": "32",
+        "way": "27,26,1,13"
+    },
+    {
+        "worsen": "36",
+        "better": "33",
+        "way": "27,9,26,24"
+    },
+    {
+        "worsen": "36",
+        "better": "34",
+        "way": "1,13"
+    },
+    {
+        "worsen": "36",
+        "better": "35",
+        "way": "29,15,28,37"
+    },
+    {
+        "worsen": "36",
+        "better": "36",
+        "way": "+"
+    },
+    {
+        "worsen": "36",
+        "better": "37",
+        "way": "15,10,37,28"
+    },
+    {
+        "worsen": "36",
+        "better": "38",
+        "way": "15,1,24"
+    },
+    {
+        "worsen": "36",
+        "better": "39",
+        "way": "12,17,28"
+    },
+    {
+        "worsen": "37",
+        "better": "1",
+        "way": "27,26,28,13"
+    },
+    {
+        "worsen": "37",
+        "better": "2",
+        "way": "6,13,28,1"
+    },
+    {
+        "worsen": "37",
+        "better": "3",
+        "way": "16,17,26,24"
+    },
+    {
+        "worsen": "37",
+        "better": "4",
+        "way": "26"
+    },
+    {
+        "worsen": "37",
+        "better": "5",
+        "way": "2,13,18,17"
+    },
+    {
+        "worsen": "37",
+        "better": "6",
+        "way": "2,39,30,16"
+    },
+    {
+        "worsen": "37",
+        "better": "7",
+        "way": "29,1,4,16"
+    },
+    {
+        "worsen": "37",
+        "better": "8",
+        "way": "2,18,26,31"
+    },
+    {
+        "worsen": "37",
+        "better": "9",
+        "way": "3,4,16,35"
+    },
+    {
+        "worsen": "37",
+        "better": "10",
+        "way": "30,28,40,19"
+    },
+    {
+        "worsen": "37",
+        "better": "11",
+        "way": "35,36,37,32"
+    },
+    {
+        "worsen": "37",
+        "better": "12",
+        "way": "27,163,1,39"
+    },
+    {
+        "worsen": "37",
+        "better": "13",
+        "way": "11,22,39,30"
+    },
+    {
+        "worsen": "37",
+        "better": "14",
+        "way": "27,3,15,28"
+    },
+    {
+        "worsen": "37",
+        "better": "15",
+        "way": "19,29,39,25"
+    },
+    {
+        "worsen": "37",
+        "better": "16",
+        "way": "25,34,6,35"
+    },
+    {
+        "worsen": "37",
+        "better": "17",
+        "way": "3,27,35,16"
+    },
+    {
+        "worsen": "37",
+        "better": "18",
+        "way": "2,24,26"
+    },
+    {
+        "worsen": "37",
+        "better": "19",
+        "way": "35,38"
+    },
+    {
+        "worsen": "37",
+        "better": "20",
+        "way": "19,35,16"
+    },
+    {
+        "worsen": "37",
+        "better": "21",
+        "way": "18,1,16,10"
+    },
+    {
+        "worsen": "37",
+        "better": "22",
+        "way": "35,3,15,19"
+    },
+    {
+        "worsen": "37",
+        "better": "23",
+        "way": "1,18,10,24"
+    },
+    {
+        "worsen": "37",
+        "better": "24",
+        "way": "35,33,27,22"
+    },
+    {
+        "worsen": "37",
+        "better": "25",
+        "way": "18,28,32,9"
+    },
+    {
+        "worsen": "37",
+        "better": "26",
+        "way": "3,27,29,18"
+    },
+    {
+        "worsen": "37",
+        "better": "27",
+        "way": "27,40,28,8"
+    },
+    {
+        "worsen": "37",
+        "better": "28",
+        "way": "26,24,32,28"
+    },
+    {
+        "worsen": "37",
+        "better": "29",
+        "way": ""
+    },
+    {
+        "worsen": "37",
+        "better": "30",
+        "way": "22,19,29,28"
+    },
+    {
+        "worsen": "37",
+        "better": "31",
+        "way": "2,21"
+    },
+    {
+        "worsen": "37",
+        "better": "32",
+        "way": "5,28,11,29"
+    },
+    {
+        "worsen": "37",
+        "better": "33",
+        "way": "2,5"
+    },
+    {
+        "worsen": "37",
+        "better": "34",
+        "way": "12,26"
+    },
+    {
+        "worsen": "37",
+        "better": "35",
+        "way": "1,15"
+    },
+    {
+        "worsen": "37",
+        "better": "36",
+        "way": "15,10,37,28"
+    },
+    {
+        "worsen": "37",
+        "better": "37",
+        "way": "+"
+    },
+    {
+        "worsen": "37",
+        "better": "38",
+        "way": "34,21"
+    },
+    {
+        "worsen": "37",
+        "better": "39",
+        "way": "35,18"
+    },
+    {
+        "worsen": "38",
+        "better": "1",
+        "way": "28,26,18,35"
+    },
+    {
+        "worsen": "38",
+        "better": "2",
+        "way": "28,26,35,10"
+    },
+    {
+        "worsen": "38",
+        "better": "3",
+        "way": "14,13,17,28"
+    },
+    {
+        "worsen": "38",
+        "better": "4",
+        "way": "23"
+    },
+    {
+        "worsen": "38",
+        "better": "5",
+        "way": "17,14,13"
+    },
+    {
+        "worsen": "38",
+        "better": "6",
+        "way": ""
+    },
+    {
+        "worsen": "38",
+        "better": "7",
+        "way": "35,13,16"
+    },
+    {
+        "worsen": "38",
+        "better": "8",
+        "way": ""
+    },
+    {
+        "worsen": "38",
+        "better": "9",
+        "way": "28,10"
+    },
+    {
+        "worsen": "38",
+        "better": "10",
+        "way": "2,35"
+    },
+    {
+        "worsen": "38",
+        "better": "11",
+        "way": "13,35"
+    },
+    {
+        "worsen": "38",
+        "better": "12",
+        "way": "15,32,1,13"
+    },
+    {
+        "worsen": "38",
+        "better": "13",
+        "way": "18,1"
+    },
+    {
+        "worsen": "38",
+        "better": "14",
+        "way": "25,13"
+    },
+    {
+        "worsen": "38",
+        "better": "15",
+        "way": "6,9"
+    },
+    {
+        "worsen": "38",
+        "better": "16",
+        "way": ""
+    },
+    {
+        "worsen": "38",
+        "better": "17",
+        "way": "26,2,19"
+    },
+    {
+        "worsen": "38",
+        "better": "18",
+        "way": "8,32,19"
+    },
+    {
+        "worsen": "38",
+        "better": "19",
+        "way": "2,32,13"
+    },
+    {
+        "worsen": "38",
+        "better": "20",
+        "way": ""
+    },
+    {
+        "worsen": "38",
+        "better": "21",
+        "way": "28,2,27"
+    },
+    {
+        "worsen": "38",
+        "better": "22",
+        "way": "23,28"
+    },
+    {
+        "worsen": "38",
+        "better": "23",
+        "way": "35,10,18,5"
+    },
+    {
+        "worsen": "38",
+        "better": "24",
+        "way": "35,33"
+    },
+    {
+        "worsen": "38",
+        "better": "25",
+        "way": "24,28,35,30"
+    },
+    {
+        "worsen": "38",
+        "better": "26",
+        "way": "35,13"
+    },
+    {
+        "worsen": "38",
+        "better": "27",
+        "way": "11,27,32"
+    },
+    {
+        "worsen": "38",
+        "better": "28",
+        "way": "28,26,10,34"
+    },
+    {
+        "worsen": "38",
+        "better": "29",
+        "way": "28,26,18,23"
+    },
+    {
+        "worsen": "38",
+        "better": "30",
+        "way": "2,33"
+    },
+    {
+        "worsen": "38",
+        "better": "31",
+        "way": "2"
+    },
+    {
+        "worsen": "38",
+        "better": "32",
+        "way": "1,26,13"
+    },
+    {
+        "worsen": "38",
+        "better": "33",
+        "way": "1,12,34,3"
+    },
+    {
+        "worsen": "38",
+        "better": "34",
+        "way": "1,35,13"
+    },
+    {
+        "worsen": "38",
+        "better": "35",
+        "way": "27,4,1,35"
+    },
+    {
+        "worsen": "38",
+        "better": "36",
+        "way": "15,24,10"
+    },
+    {
+        "worsen": "38",
+        "better": "37",
+        "way": "34,27,25"
+    },
+    {
+        "worsen": "38",
+        "better": "38",
+        "way": "+"
+    },
+    {
+        "worsen": "38",
+        "better": "39",
+        "way": "5,12,35,26"
+    },
+    {
+        "worsen": "39",
+        "better": "1",
+        "way": "35,26,24,37"
+    },
+    {
+        "worsen": "39",
+        "better": "2",
+        "way": "28,27,15,3"
+    },
+    {
+        "worsen": "39",
+        "better": "3",
+        "way": "18,4,28,38"
+    },
+    {
+        "worsen": "39",
+        "better": "4",
+        "way": "30,7,14,26"
+    },
+    {
+        "worsen": "39",
+        "better": "5",
+        "way": "10,26,34,31"
+    },
+    {
+        "worsen": "39",
+        "better": "6",
+        "way": "10,35,17,7"
+    },
+    {
+        "worsen": "39",
+        "better": "7",
+        "way": "2,6,34,10"
+    },
+    {
+        "worsen": "39",
+        "better": "8",
+        "way": "35,37,10,2"
+    },
+    {
+        "worsen": "39",
+        "better": "9",
+        "way": ""
+    },
+    {
+        "worsen": "39",
+        "better": "10",
+        "way": "28,15,10,36"
+    },
+    {
+        "worsen": "39",
+        "better": "11",
+        "way": "10,37,14"
+    },
+    {
+        "worsen": "39",
+        "better": "12",
+        "way": "14,10,34,40"
+    },
+    {
+        "worsen": "39",
+        "better": "13",
+        "way": "35,3,22,39"
+    },
+    {
+        "worsen": "39",
+        "better": "14",
+        "way": "29,28,10,18"
+    },
+    {
+        "worsen": "39",
+        "better": "15",
+        "way": "35,10,2,18"
+    },
+    {
+        "worsen": "39",
+        "better": "16",
+        "way": "20,10,16,38"
+    },
+    {
+        "worsen": "39",
+        "better": "17",
+        "way": "35,21,28,10"
+    },
+    {
+        "worsen": "39",
+        "better": "18",
+        "way": "26,17,19,1"
+    },
+    {
+        "worsen": "39",
+        "better": "19",
+        "way": "35,10,38,19"
+    },
+    {
+        "worsen": "39",
+        "better": "20",
+        "way": "1"
+    },
+    {
+        "worsen": "39",
+        "better": "21",
+        "way": "35,20,10"
+    },
+    {
+        "worsen": "39",
+        "better": "22",
+        "way": "28,10,29,35"
+    },
+    {
+        "worsen": "39",
+        "better": "23",
+        "way": "28,10,35,23"
+    },
+    {
+        "worsen": "39",
+        "better": "24",
+        "way": "13,15,23"
+    },
+    {
+        "worsen": "39",
+        "better": "25",
+        "way": ""
+    },
+    {
+        "worsen": "39",
+        "better": "26",
+        "way": "35,38"
+    },
+    {
+        "worsen": "39",
+        "better": "27",
+        "way": "1,35,10,38"
+    },
+    {
+        "worsen": "39",
+        "better": "28",
+        "way": "1,10,34,28"
+    },
+    {
+        "worsen": "39",
+        "better": "29",
+        "way": "18,10,32,1"
+    },
+    {
+        "worsen": "39",
+        "better": "30",
+        "way": "22,35,13,24"
+    },
+    {
+        "worsen": "39",
+        "better": "31",
+        "way": "35,22,18,39"
+    },
+    {
+        "worsen": "39",
+        "better": "32",
+        "way": "35,28,2,24"
+    },
+    {
+        "worsen": "39",
+        "better": "33",
+        "way": "1,28,7,10"
+    },
+    {
+        "worsen": "39",
+        "better": "34",
+        "way": "1,32,10,25"
+    },
+    {
+        "worsen": "39",
+        "better": "35",
+        "way": "1,35,28,37"
+    },
+    {
+        "worsen": "39",
+        "better": "36",
+        "way": "12,17,28,24"
+    },
+    {
+        "worsen": "39",
+        "better": "37",
+        "way": "35,18,27,2"
+    },
+    {
+        "worsen": "39",
+        "better": "38",
+        "way": "5,12,35,26"
+    },
+    {
+        "worsen": "39",
+        "better": "39",
+        "way": "+"
+    }
+]

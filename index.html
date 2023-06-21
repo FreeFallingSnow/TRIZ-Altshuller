@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-control" content="no-cache,must-revalidate">
+    <meta http-equiv="Cache" content="no-cache">
+    <title>矛盾矩阵查询</title>
+</head>
+<style>
+    .card {
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+        padding-bottom: 12px;
+        margin-top: 16px;
+
+    }
+
+    #searchForm {
+        padding-top: 16px;
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+        padding-bottom: 12px;
+        margin-top: 16px;
+        padding-left: 16px;
+        padding-right: 16px;
+
+    }
+
+    .header {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    select {
+        display: inline-block;
+        right: 0;
+        margin-top: 2px;
+        width: 100%;
+        height: 30px;
+        border-radius: 5px;
+
+    }
+
+    button {
+        border: none;
+        outline: none;
+        display: inline-block;
+        margin-top: 16px;
+        width: 100%;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+        height: 30px;
+        background: #1890ff;
+        color: #fff;
+
+    }
+
+    .card>p {
+        padding-left: 16px;
+        padding-right: 16px;
+        color: #515a6e;
+        font-size: 12px;
+    }
+
+    .title {
+        border-bottom: 1px solid #e8eaec;
+        padding: 14px 16px;
+        line-height: 1;
+        color: #000000;
+        font-size: 15px;
+
+    }
+
+    .result {
+        width: 95vw;
+        margin: 2vw auto;
+    }
+
+    .result>div {
+        margin-top: 2vw;
+    }
+
+    body {
+        height: 100%;
+        margin: 2vw;
+        padding: 0;
+        background-color: #f0f2f5;
+        font-size: 15px;
+
+    }
+</style>
+
+<body>
+    <div class="header">Altshuller矛盾矩阵查询</div>
+    <form id="searchForm">
+
+        <label for="betterParam">改善参数：</label>
+        <select id="betterParam">
+            <option value="">选择改善参数</option>
+        </select>
+        <br>
+        <label for="worsenParam">恶化参数：</label>
+        <select id="worsenParam">
+            <option value="">选择恶化参数</option>
+        </select>
+        <br>
+
+        <button type="submit">查询</button>
+    </form>
+
+    <div id="result">
+
+    </div>
+
+    <script>
+        // 获取参数数据
+        fetch('parameter.json')
+            .then(response => response.json())
+            .then(parameters => {
+                // 动态生成恶化参数选项
+                const worsenParamSelect = document.getElementById('worsenParam');
+                parameters.forEach(param => {
+                    const option = document.createElement('option');
+                    option.value = param.key;
+                    option.textContent = param.key + "." + param.parameter;
+                    worsenParamSelect.appendChild(option);
+                });
+            });
+
+        // 获取发明原理数据
+        fetch('parameter.json')
+            .then(response => response.json())
+            .then(parameters => {
+                // 动态生成改善参数选项
+                const betterParamSelect = document.getElementById('betterParam');
+                parameters.forEach(param => {
+                    const option = document.createElement('option');
+                    option.value = param.key;
+                    option.textContent = param.key + "." + param.parameter;
+                    betterParamSelect.appendChild(option);
+                });
+            });
+
+        // 处理查询请求
+        document.getElementById('searchForm').addEventListener('submit', function (e) {
+            e.preventDefault(); // 阻止表单提交
+
+            const worsenParamKey = document.getElementById('worsenParam').value;
+            const betterParamKey = document.getElementById('betterParam').value;
+
+            // 发起查询请求或执行其他操作
+            console.log(worsenParamKey);
+            console.log(betterParamKey);
+            // 示例查询
+            handleSearchRequest(worsenParamKey, betterParamKey);
+        });
+
+        // 查询请求处理函数
+        function handleSearchRequest(worsenParamKey, betterParamKey) {
+            return fetch('way.json')
+                .then(response => response.json())
+                .then(contradictions => {
+                    return fetch('function.json')
+                        .then(response => response.json())
+                        .then(functions => {
+                            const contradiction = contradictions.find(c => c.worsen === worsenParamKey && c.better === betterParamKey);
+
+                            if (contradiction) {
+                                console.log(contradiction.way)
+                                if (contradiction.way == "+") {
+                                    alert("产生的矛盾是物理矛盾");
+                                    return;
+                                }
+                                if (contradiction.way == "-") {
+                                    alert("没有找到合适的发明原理来解决问题，当然只是表示研究的局限，并不代表不能够应用发明原理。");
+                                    return;
+                                }
+                                if (contradiction.way == "") {
+                                    alert("没有找到发明原理。");
+                                    return;
+                                }
+                                const functionKeys = contradiction.way.split(",");
+                                let result = "";
+                                functionKeys.forEach(functionKey => {
+                                    const func = functions.find(f => f.key === functionKey);
+                                    if (func) {
+                                        result += `<div class="card"><div class="title">${func.key + '.' + func.way + '原理'}</div><p>内容：${func.describe}</p><p>例子：${func.examples}</p></div>`;
+                                    }
+                                });
+                                document.getElementById('result').innerHTML = result;
+                                return;
+                            } else {
+                                alert("未选择");
+                                return;
+                            }
+                        });
+                });
+        }
+    </script>
+
+
+</body>
+
+</html>
